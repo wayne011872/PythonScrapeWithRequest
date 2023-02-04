@@ -1,0 +1,6 @@
+pandas
+orjson
+fake-useragent
+requests
+bs4
+urllib3
