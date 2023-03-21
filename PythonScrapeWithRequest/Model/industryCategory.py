@@ -1,6 +1,5 @@
-class companyCoordinate:
+class industryCategory:
     def __init__(self):
         self.companyName = ""
         self.taxIdNum = ""
-        self.latitude = ""
-        self.longitude = ""
+        self.category = ""

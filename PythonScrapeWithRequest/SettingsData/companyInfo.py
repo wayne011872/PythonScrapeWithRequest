@@ -1,7 +1,9 @@
-import PythonScrapeWithRequest.Settings.companyCoordinate as psc
+import PythonScrapeWithRequest.Settings.companyInfo as psc
 
-class companyCoordinateSettings:
+
+class companyInfoSettings:
     path_settings = {}
+
     def __init__(self):
         self.getDataPath()
         self.getSpiderName()
@@ -10,7 +12,6 @@ class companyCoordinateSettings:
         self.getUsedCol()
         self.getComNameCol()
         self.getComTaxIDCol()
-        self.getComAddrCol()
         self.getUrlHead()
         self.getConfigDir()
         self.getRequestHeaders()
@@ -26,7 +27,7 @@ class companyCoordinateSettings:
         self.path_settings['importFile'] = importFile
         self.path_settings['exportDir'] = exportDir
         self.path_settings['exportFile'] = exportFile
-    
+
     def getSpiderName(self):
         self.spiderName = psc.SPIDER_NAME
 
@@ -38,22 +39,19 @@ class companyCoordinateSettings:
 
     def getUsedCol(self):
         self.usedCol = psc.USE_COLUMN
-        
+
     def getComNameCol(self):
         self.comNameCol = psc.COMNAME_COLUMN
 
     def getComTaxIDCol(self):
         self.comTaxIdCol = psc.COMTAXID_COLUMN
 
-    def getComAddrCol(self):
-        self.comAddrCol = psc.COMADDR_COLUMN
-
     def getUrlHead(self):
         self.urlHead = psc.URLHEAD
 
     def getConfigDir(self):
         self.configDir = psc.CONFIG_PATH
-        
+
     def getRequestHeaders(self):
         self.requestHeaders = psc.HEADERS
 
@@ -61,6 +59,6 @@ class companyCoordinateSettings:
         self.logName = psc.LOGNAME
         self.logDir = psc.LOGDIR
         self.logLevel = psc.LOGLEVEL
-        
+
     def getRequestSleepTime(self):
         self.sleepTime = psc.SLEEP_TIME

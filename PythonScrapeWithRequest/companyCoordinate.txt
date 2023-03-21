@@ -1,6 +1,0 @@
-2023-02-04 16:59:27,901 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
-2023-02-04 16:59:27,990 - [line:115] - INFO: [0] taxId: 91014910 
-latitude:25.063546 longitude:121.52223
-2023-02-04 16:59:31,802 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
-2023-02-04 16:59:31,882 - [line:115] - INFO: [1] taxId: 90189010 
-latitude:25.033569 longitude:121.543836

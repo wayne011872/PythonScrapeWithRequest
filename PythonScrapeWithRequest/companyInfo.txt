@@ -1,0 +1,3692 @@
+2023-03-01 14:10:31,701 - [line:35] - DEBUG: ### time is random delay: 4.4 s###
+2023-03-01 14:10:33,424 - [line:125] - INFO: [0] taxId: 1456077 
+capitalAmount:53000000
+email:
+website:
+phone:02-2655-7810
+companyAddress:臺北市南港區園區街3號9樓之1
+2023-03-01 14:10:37,837 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:10:39,659 - [line:125] - INFO: [1] taxId: 3213392 
+capitalAmount:3500000000
+email:sales@allis.com.tw
+website:www.allis.com.tw
+phone:02-2655-3456
+companyAddress:臺北市南港區三重路19-11號12樓
+2023-03-01 14:10:42,267 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:10:43,524 - [line:125] - INFO: [2] taxId: 4405741 
+capitalAmount:78000000
+email:
+website:
+phone:02-2655-2299
+companyAddress:臺北市南港區三重路19之13號14樓
+2023-03-01 14:10:43,629 - [line:35] - DEBUG: ### time is random delay: 3.0 s###
+2023-03-01 14:10:44,875 - [line:125] - INFO: [3] taxId: 4697310 
+capitalAmount:50000000
+email:
+website:
+phone:02-2655-3989
+companyAddress:臺北市南港區三重路19之3號9樓之1
+2023-03-01 14:10:47,881 - [line:35] - DEBUG: ### time is random delay: 5.0 s###
+2023-03-01 14:10:53,280 - [line:125] - INFO: [4] taxId: 4742997 
+capitalAmount:1000000000
+email:service@pbf.com.tw
+website:http://www.pbf.com.tw
+phone:02-2655-8218
+companyAddress:臺北市南港區園區街3號16樓
+2023-03-01 14:10:58,289 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:11:00,066 - [line:125] - INFO: [5] taxId: 4804640 
+capitalAmount:25000000
+email:
+website:
+phone:02-2772-3316
+companyAddress:臺北市南港區園區街3之1號5樓之3
+2023-03-01 14:11:02,773 - [line:35] - DEBUG: ### time is random delay: 2.2 s###
+2023-03-01 14:11:04,416 - [line:125] - INFO: [6] taxId: 7155339 
+capitalAmount:1500000000
+email:
+website:
+phone:02-2655-0077
+companyAddress:臺北市南港區三重路19之2號9樓
+2023-03-01 14:11:06,635 - [line:35] - DEBUG: ### time is random delay: 3.2 s###
+2023-03-01 14:11:07,811 - [line:88] - ERROR: [7] 9468998 Request不到或出問題
+2023-03-01 14:11:07,952 - [line:125] - INFO: [7] taxId: 9468998 
+capitalAmount:1500000000
+email:
+website:
+phone:02-2655-0077
+companyAddress:臺北市南港區三重路19之2號9樓
+2023-03-01 14:11:11,157 - [line:35] - DEBUG: ### time is random delay: 3.3 s###
+2023-03-01 14:11:16,159 - [line:125] - INFO: [8] taxId: 9493666 
+capitalAmount:42000000
+email:
+website:
+phone:02-2786-7920
+companyAddress:臺北市南港區園區街3之1號6樓之1
+2023-03-01 14:11:19,483 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:11:22,376 - [line:125] - INFO: [9] taxId: 11332202 
+capitalAmount:30305500000
+email:ir@teco.com.tw
+website:http://www.teco.com.tw
+phone:02-2655-3333
+companyAddress:臺北市南港區三重路19-9號5樓
+2023-03-01 14:11:24,798 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:11:25,995 - [line:88] - ERROR: [10] 11821341 Request不到或出問題
+2023-03-01 14:11:26,575 - [line:125] - INFO: [10] taxId: 11821341 
+capitalAmount:30305500000
+email:ir@teco.com.tw
+website:http://www.teco.com.tw
+phone:02-2655-3333
+companyAddress:臺北市南港區三重路19-9號5樓
+2023-03-01 14:11:28,997 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:11:33,021 - [line:125] - INFO: [11] taxId: 11916803 
+capitalAmount:408800000
+email:
+website:
+phone:02-2655-7666
+companyAddress:臺北市南港區園區街3之1號14樓
+2023-03-01 14:11:34,428 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:11:36,223 - [line:125] - INFO: [12] taxId: 12184616 
+capitalAmount:13500000
+email:
+website:
+phone:02-2655-5005
+companyAddress:臺北市南港區三重路19之3號6樓之3
+2023-03-01 14:11:38,130 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:11:39,499 - [line:125] - INFO: [13] taxId: 12268328 
+capitalAmount:30000000
+email:
+website:
+phone:02-2655-1940
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:11:42,136 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:11:43,490 - [line:125] - INFO: [14] taxId: 12445648 
+capitalAmount:5000000
+email:
+website:
+phone:02-2655-1266
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:11:47,198 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:11:48,629 - [line:125] - INFO: [15] taxId: 12495864 
+capitalAmount:50000000
+email:
+website:
+phone:02-2655-1168
+companyAddress:臺北市南港區三重路19之2號7樓
+2023-03-01 14:11:50,238 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:11:52,367 - [line:125] - INFO: [16] taxId: 12623517 
+capitalAmount:50000000
+email:
+website:
+phone:02-8787-0377
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:11:53,896 - [line:35] - DEBUG: ### time is random delay: 1.2 s###
+2023-03-01 14:11:55,284 - [line:125] - INFO: [17] taxId: 12630860 
+capitalAmount:1000000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號7樓
+2023-03-01 14:11:56,495 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:11:57,693 - [line:88] - ERROR: [18] 12663974 Request不到或出問題
+2023-03-01 14:11:57,805 - [line:125] - INFO: [18] taxId: 12663974 
+capitalAmount:1000000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號7樓
+2023-03-01 14:12:00,516 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:12:01,880 - [line:125] - INFO: [19] taxId: 12664299 
+capitalAmount:10000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號6樓之3
+2023-03-01 14:12:04,587 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:12:05,892 - [line:125] - INFO: [20] taxId: 12664452 
+capitalAmount:8000000
+email:
+website:
+phone:02-2785-5018
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:12:06,116 - [line:35] - DEBUG: ### time is random delay: 1.2 s###
+2023-03-01 14:12:08,107 - [line:125] - INFO: [21] taxId: 12664880 
+capitalAmount:500000000
+email:
+website:
+phone:02-2655-8089
+companyAddress:臺北市南港區園區街3之2號4樓
+2023-03-01 14:12:09,314 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:12:11,155 - [line:125] - INFO: [22] taxId: 12693549 
+capitalAmount:55000000
+email:
+website:
+phone:02-2655-8888
+companyAddress:臺北市南港區園區街3號12樓之1
+2023-03-01 14:12:15,462 - [line:35] - DEBUG: ### time is random delay: 2.5 s###
+2023-03-01 14:12:16,650 - [line:88] - ERROR: [23] 12696551 Request不到或出問題
+2023-03-01 14:12:16,835 - [line:125] - INFO: [23] taxId: 12696551 
+capitalAmount:55000000
+email:
+website:
+phone:02-2655-8888
+companyAddress:臺北市南港區園區街3號12樓之1
+2023-03-01 14:12:19,343 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:12:20,678 - [line:125] - INFO: [24] taxId: 12859317 
+capitalAmount:5000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號3樓之2
+2023-03-01 14:12:22,086 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:12:24,664 - [line:125] - INFO: [25] taxId: 12867415 
+capitalAmount:100000000
+email:
+website:
+phone:02-2783-5000
+companyAddress:臺北市南港區園區街3號10樓之2
+2023-03-01 14:12:28,483 - [line:35] - DEBUG: ### time is random delay: 3.1 s###
+2023-03-01 14:12:29,798 - [line:125] - INFO: [26] taxId: 12934907 
+capitalAmount:4600000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號7樓
+2023-03-01 14:12:32,905 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:12:34,554 - [line:125] - INFO: [27] taxId: 12936623 
+capitalAmount:90000000
+email:
+website:
+phone:02-2655-7558
+companyAddress:臺北市南港區園區街3之1號5樓
+2023-03-01 14:12:37,162 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:12:38,859 - [line:125] - INFO: [28] taxId: 12951166 
+capitalAmount:13500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:12:42,691 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:12:44,065 - [line:125] - INFO: [29] taxId: 12951813 
+capitalAmount:13500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:12:47,589 - [line:35] - DEBUG: ### time is random delay: 3.6 s###
+2023-03-01 14:12:53,320 - [line:125] - INFO: [30] taxId: 12966029 
+capitalAmount:100000000
+email:
+website:
+phone:02-2655-7868
+companyAddress:臺北市南港區園區街3號10樓之5
+2023-03-01 14:12:56,944 - [line:35] - DEBUG: ### time is random delay: 0.0 s###
+2023-03-01 14:12:58,305 - [line:125] - INFO: [31] taxId: 13087943 
+capitalAmount:40000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號6樓之2
+2023-03-01 14:12:58,314 - [line:35] - DEBUG: ### time is random delay: 1.2 s###
+2023-03-01 14:12:59,663 - [line:125] - INFO: [32] taxId: 13104984 
+capitalAmount:15000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號7樓之3
+2023-03-01 14:13:00,870 - [line:35] - DEBUG: ### time is random delay: 3.6 s###
+2023-03-01 14:13:03,295 - [line:125] - INFO: [33] taxId: 13105843 
+capitalAmount:45000000
+email:
+website:
+phone:02-6616-9966
+companyAddress:臺北市南港區園區街3號2樓之7
+2023-03-01 14:13:06,904 - [line:35] - DEBUG: ### time is random delay: 0.5 s###
+2023-03-01 14:13:08,682 - [line:125] - INFO: [34] taxId: 13110677 
+capitalAmount:3000000000
+email:info@obipharma.com
+website:http://www.obipharma.com/
+phone:02-2655-8799
+companyAddress:臺北市南港區園區街3號19樓
+2023-03-01 14:13:09,187 - [line:35] - DEBUG: ### time is random delay: 2.3 s###
+2023-03-01 14:13:12,762 - [line:125] - INFO: [35] taxId: 13115933 
+capitalAmount:21000000
+email:
+website:
+phone:02-2785-4326
+companyAddress:臺北市南港區園區街3之1號4樓之3
+2023-03-01 14:13:15,097 - [line:35] - DEBUG: ### time is random delay: 3.3 s###
+2023-03-01 14:13:17,261 - [line:125] - INFO: [36] taxId: 14033663 
+capitalAmount:1200000000
+email:nina_kao@elumax.com
+website:http://www.elumax.com
+phone:02-2788-3656
+companyAddress:臺北市南港區園區街3之1號12樓
+2023-03-01 14:13:20,585 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:13:22,196 - [line:125] - INFO: [37] taxId: 16099112 
+capitalAmount:2000000000
+email:benjamin_wang@coasia.com
+website:www.coasiaelec.com
+phone:02-2655-7699
+companyAddress:臺北市南港區園區街3之2號13樓
+2023-03-01 14:13:26,924 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:13:28,591 - [line:125] - INFO: [38] taxId: 16138656 
+capitalAmount:22000000
+email:
+website:
+phone:02-7722-3313
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:13:32,699 - [line:35] - DEBUG: ### time is random delay: 4.2 s###
+2023-03-01 14:13:34,042 - [line:125] - INFO: [39] taxId: 16147698 
+capitalAmount:5000000
+email:
+website:
+phone:02-2788-2612
+companyAddress:臺北市南港區園區街3號11樓之3
+2023-03-01 14:13:38,276 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:13:40,148 - [line:88] - ERROR: [40] 16170894 Request不到或出問題
+2023-03-01 14:13:40,238 - [line:125] - INFO: [40] taxId: 16170894 
+capitalAmount:5000000
+email:
+website:
+phone:02-2788-2612
+companyAddress:臺北市南港區園區街3號11樓之3
+2023-03-01 14:13:41,646 - [line:35] - DEBUG: ### time is random delay: 3.2 s###
+2023-03-01 14:13:43,408 - [line:125] - INFO: [41] taxId: 16176150 
+capitalAmount:2000000000
+email:
+website:
+phone:02-2655-7377
+companyAddress:臺北市南港區園區街3號11樓之1
+2023-03-01 14:13:46,618 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:13:49,207 - [line:125] - INFO: [42] taxId: 16310023 
+capitalAmount:150000000
+email:
+website:
+phone:02-2655-0158
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:13:53,228 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:13:57,133 - [line:125] - INFO: [43] taxId: 16313696 
+capitalAmount:600000000
+email:carrie.chang@naturalbiokey.com
+website:http://www.naturalbiokey.com
+phone:02-2655-7166
+companyAddress:臺北市南港區園區街3號10樓之6
+2023-03-01 14:13:58,659 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:14:06,899 - [line:125] - INFO: [44] taxId: 16318279 
+capitalAmount:30000000
+email:
+website:
+phone:02-2653-1019
+companyAddress:臺北市南港區園區街3號10樓之3
+2023-03-01 14:14:09,828 - [line:35] - DEBUG: ### time is random delay: 2.1 s###
+2023-03-01 14:14:11,585 - [line:125] - INFO: [45] taxId: 16446274 
+capitalAmount:120000000000
+email:Spokesman_MBOX@thsrc.com.tw
+website:www.thsrc.com.tw
+phone:02-8789-2000
+companyAddress:臺北市南港區經貿二路66號13~15樓
+2023-03-01 14:14:13,690 - [line:35] - DEBUG: ### time is random delay: 1.1 s###
+2023-03-01 14:14:14,933 - [line:125] - INFO: [46] taxId: 16538174 
+capitalAmount:5000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號9樓
+2023-03-01 14:14:16,054 - [line:35] - DEBUG: ### time is random delay: 4.2 s###
+2023-03-01 14:14:17,841 - [line:125] - INFO: [47] taxId: 16540496 
+capitalAmount:5000000000
+email:NA
+website:http://www.ampacscorp.com/
+phone:02-2655-2798
+companyAddress:臺北市南港區三重路19之3號3樓
+2023-03-01 14:14:22,074 - [line:35] - DEBUG: ### time is random delay: 4.4 s###
+2023-03-01 14:14:23,322 - [line:125] - INFO: [48] taxId: 16589976 
+capitalAmount:2000000
+email:
+website:
+phone:02-2728-1970
+companyAddress:臺北市南港區三重路19之3號6樓之2
+2023-03-01 14:14:27,748 - [line:35] - DEBUG: ### time is random delay: 0.6 s###
+2023-03-01 14:14:29,469 - [line:125] - INFO: [49] taxId: 16634206 
+capitalAmount:8000000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19-8號6樓
+2023-03-01 14:14:30,103 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:14:31,458 - [line:125] - INFO: [50] taxId: 16714931 
+capitalAmount:85000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之1號12樓之1
+2023-03-01 14:14:31,900 - [line:35] - DEBUG: ### time is random delay: 1.7 s###
+2023-03-01 14:14:33,841 - [line:125] - INFO: [51] taxId: 16766579 
+capitalAmount:200000000
+email:
+website:
+phone:02-2655-0000
+companyAddress:臺北市南港區三重路19之6號1樓
+2023-03-01 14:14:35,564 - [line:35] - DEBUG: ### time is random delay: 0.7 s###
+2023-03-01 14:14:36,951 - [line:125] - INFO: [52] taxId: 16793301 
+capitalAmount:28000000
+email:
+website:
+phone:02-2718-1657
+companyAddress:臺北市南港區三重路19之2號7樓之1
+2023-03-01 14:14:37,659 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:14:41,636 - [line:125] - INFO: [53] taxId: 18606304 
+capitalAmount:10000000000
+email:yvonne@centerlab.com.tw
+website:www.centerlab.com.tw
+phone:02-2655-8680
+companyAddress:臺北市南港區園區街3之2號7樓
+2023-03-01 14:14:43,548 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:14:45,393 - [line:125] - INFO: [54] taxId: 20740427 
+capitalAmount:2000000000
+email:
+website:
+phone:02-2655-2666
+companyAddress:臺北市南港區三重路19之5號6樓
+2023-03-01 14:14:45,506 - [line:35] - DEBUG: ### time is random delay: 0.6 s###
+2023-03-01 14:14:46,862 - [line:125] - INFO: [55] taxId: 20792640 
+capitalAmount:2000000000
+email:stockaffairs@agneovo.com
+website:http://www.agneovo.com/
+phone:02-2655-8080
+companyAddress:臺北市南港區園區街3之1號5樓之1
+2023-03-01 14:14:47,470 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:14:49,217 - [line:125] - INFO: [56] taxId: 20808734 
+capitalAmount:160000000
+email:
+website:
+phone:02-2659-6910
+companyAddress:臺北市南港區三重路19之2號9樓
+2023-03-01 14:14:52,927 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:14:56,080 - [line:125] - INFO: [57] taxId: 20854461 
+capitalAmount:18000000
+email:
+website:
+phone:02-2655-2655
+companyAddress:臺北市南港區三重路19之3號9樓之3
+2023-03-01 14:14:58,811 - [line:35] - DEBUG: ### time is random delay: 1.1 s###
+2023-03-01 14:15:00,691 - [line:125] - INFO: [58] taxId: 20934887 
+capitalAmount:18000000
+email:
+website:
+phone:02-2655-2655
+companyAddress:臺北市南港區三重路19之3號9樓之3
+2023-03-01 14:15:01,796 - [line:35] - DEBUG: ### time is random delay: 0.9 s###
+2023-03-01 14:15:03,857 - [line:125] - INFO: [59] taxId: 20946791 
+capitalAmount:2088474700
+email:
+website:
+phone:02-2652-8700
+companyAddress:臺北市南港區經貿二路66號10樓之1
+2023-03-01 14:15:04,764 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:15:06,507 - [line:125] - INFO: [60] taxId: 22156759 
+capitalAmount:800000000
+email:
+website:
+phone:02-2655-7866
+companyAddress:臺北市南港區園區街3號13樓之1
+2023-03-01 14:15:06,716 - [line:35] - DEBUG: ### time is random delay: 4.2 s###
+2023-03-01 14:15:08,089 - [line:125] - INFO: [61] taxId: 22167101 
+capitalAmount:8000000
+email:
+website:
+phone:02-2655-0691
+companyAddress:臺北市南港區三重路19之3號7樓
+2023-03-01 14:15:12,299 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:15:13,970 - [line:125] - INFO: [62] taxId: 22193500 
+capitalAmount:219800000
+email:
+website:
+phone:02-2655-8899
+companyAddress:臺北市南港區園區街3之2號6樓之3
+2023-03-01 14:15:16,904 - [line:35] - DEBUG: ### time is random delay: 1.8 s###
+2023-03-01 14:15:18,057 - [line:88] - ERROR: [63] 22332427 Request不到或出問題
+2023-03-01 14:15:18,189 - [line:125] - INFO: [63] taxId: 22332427 
+capitalAmount:219800000
+email:
+website:
+phone:02-2655-8899
+companyAddress:臺北市南港區園區街3之2號6樓之3
+2023-03-01 14:15:19,999 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:15:21,855 - [line:125] - INFO: [64] taxId: 22511651 
+capitalAmount:10000000
+email:
+website:
+phone:02-2681-7777
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:15:21,962 - [line:35] - DEBUG: ### time is random delay: 4.6 s###
+2023-03-01 14:15:23,562 - [line:125] - INFO: [65] taxId: 22630517 
+capitalAmount:190000000
+email:
+website:
+phone:02-2659-6910
+companyAddress:臺北市南港區三重路19之2號9樓
+2023-03-01 14:15:28,169 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:15:30,577 - [line:125] - INFO: [66] taxId: 22733794 
+capitalAmount:45000000
+email:
+website:
+phone:02-2655-2200
+companyAddress:臺北市南港區三重路19之11號14樓
+2023-03-01 14:15:34,586 - [line:35] - DEBUG: ### time is random delay: 2.0 s###
+2023-03-01 14:15:36,265 - [line:125] - INFO: [67] taxId: 22762827 
+capitalAmount:600000000
+email:
+website:
+phone:02-2655-1055
+companyAddress:臺北市南港區三重路19之11號13樓
+2023-03-01 14:15:38,274 - [line:35] - DEBUG: ### time is random delay: 5.0 s###
+2023-03-01 14:15:43,305 - [line:125] - INFO: [68] taxId: 23024594 
+capitalAmount:800000000
+email:ir@excelsiorgroup.com.tw
+website:http://www.excelsiorgroup.com.tw
+phone:02-2655-7568
+companyAddress:臺北市南港區園區街3號14樓之6
+2023-03-01 14:15:48,316 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:15:50,306 - [line:125] - INFO: [69] taxId: 23145632 
+capitalAmount:3000000000
+email:mic@micb2b.com
+website:https://www.micb2b.com
+phone:02-2655-8899
+companyAddress:臺北市南港區園區街3-2號6樓
+2023-03-01 14:15:53,837 - [line:35] - DEBUG: ### time is random delay: 0.3 s###
+2023-03-01 14:15:55,583 - [line:125] - INFO: [70] taxId: 23279224 
+capitalAmount:1000000000
+email:
+website:
+phone:02-2545-5910
+companyAddress:臺北市南港區園區街3之2號7樓
+2023-03-01 14:15:55,905 - [line:35] - DEBUG: ### time is random delay: 0.3 s###
+2023-03-01 14:16:00,094 - [line:88] - ERROR: [71] 23283894 Request不到或出問題
+2023-03-01 14:16:00,264 - [line:125] - INFO: [71] taxId: 23283894 
+capitalAmount:1000000000
+email:
+website:
+phone:02-2545-5910
+companyAddress:臺北市南港區園區街3之2號7樓
+2023-03-01 14:16:00,596 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:16:02,205 - [line:125] - INFO: [72] taxId: 23415446 
+capitalAmount:1000000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19-8號6樓
+2023-03-01 14:16:06,034 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:16:07,362 - [line:125] - INFO: [73] taxId: 23453010 
+capitalAmount:2000000
+email:
+website:
+phone:02-2655-4077
+companyAddress:臺北市南港區三重路19之2號6樓
+2023-03-01 14:16:07,569 - [line:35] - DEBUG: ### time is random delay: 3.1 s###
+2023-03-01 14:16:11,910 - [line:125] - INFO: [74] taxId: 23526674 
+capitalAmount:450500000
+email:
+website:
+phone:02-7747-8888
+companyAddress:臺北市南港區園區街3號8樓
+2023-03-01 14:16:15,017 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:16:16,460 - [line:125] - INFO: [75] taxId: 23622992 
+capitalAmount:50000000
+email:
+website:
+phone:02-2655-2655
+companyAddress:臺北市南港區三重路19之3號9樓之3
+2023-03-01 14:16:17,886 - [line:35] - DEBUG: ### time is random delay: 0.0 s###
+2023-03-01 14:16:19,465 - [line:125] - INFO: [76] taxId: 23625631 
+capitalAmount:305184000
+email:ir@febico.com.tw
+website:http://www.febico.com.tw
+phone:02-2655-8198
+companyAddress:臺北市南港區園區街3號13樓
+2023-03-01 14:16:19,488 - [line:35] - DEBUG: ### time is random delay: 3.2 s###
+2023-03-01 14:16:21,091 - [line:125] - INFO: [77] taxId: 23737093 
+capitalAmount:80000000
+email:
+website:
+phone:02-2788-2408
+companyAddress:臺北市南港區三重路66號7樓之6
+2023-03-01 14:16:24,300 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:16:25,670 - [line:125] - INFO: [78] taxId: 23742188 
+capitalAmount:300000000
+email:
+website:
+phone:02-2655-1688
+companyAddress:臺北市南港區三重路19之3號6樓之2
+2023-03-01 14:16:27,596 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:16:29,293 - [line:125] - INFO: [79] taxId: 23826588 
+capitalAmount:600000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之8號6樓
+2023-03-01 14:16:33,401 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:16:35,136 - [line:125] - INFO: [80] taxId: 23929058 
+capitalAmount:400000000
+email:ir@itts.com.tw
+website:http://www.itts.com.tw
+phone:02-2655-2525
+companyAddress:臺北市南港區三重路19之8號5樓
+2023-03-01 14:16:38,843 - [line:35] - DEBUG: ### time is random delay: 4.4 s###
+2023-03-01 14:16:40,141 - [line:125] - INFO: [81] taxId: 24062764 
+capitalAmount:27000000
+email:
+website:
+phone:02-2655-1238
+companyAddress:臺北市南港區三重路19之3號6樓之1
+2023-03-01 14:16:44,569 - [line:35] - DEBUG: ### time is random delay: 4.5 s###
+2023-03-01 14:16:48,025 - [line:125] - INFO: [82] taxId: 24313039 
+capitalAmount:5000000
+email:
+website:
+phone:02-7722-3313#232
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:16:52,535 - [line:35] - DEBUG: ### time is random delay: 2.5 s###
+2023-03-01 14:16:53,838 - [line:125] - INFO: [83] taxId: 24336103 
+capitalAmount:90000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號6樓之1
+2023-03-01 14:16:56,347 - [line:35] - DEBUG: ### time is random delay: 3.3 s###
+2023-03-01 14:16:57,948 - [line:125] - INFO: [84] taxId: 24456850 
+capitalAmount:260000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之1號7樓之1
+2023-03-01 14:17:01,320 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:17:03,452 - [line:125] - INFO: [85] taxId: 24470430 
+capitalAmount:6500000
+email:
+website:
+phone:02-2655-7528
+companyAddress:臺北市南港區園區街3號10樓之1
+2023-03-01 14:17:03,663 - [line:35] - DEBUG: ### time is random delay: 4.8 s###
+2023-03-01 14:17:05,125 - [line:125] - INFO: [86] taxId: 24471466 
+capitalAmount:100000000
+email:
+website:
+phone:02-2789-1060
+companyAddress:臺北市南港區三重路66號7樓之5
+2023-03-01 14:17:09,953 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:17:11,807 - [line:125] - INFO: [87] taxId: 24482034 
+capitalAmount:29000000
+email:
+website:
+phone:02-2655-2900
+companyAddress:臺北市南港區三重路19之6號7樓
+2023-03-01 14:17:12,216 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:17:13,505 - [line:125] - INFO: [88] taxId: 24486186 
+capitalAmount:590000
+email:
+website:
+phone:02-2655-2299#223
+companyAddress:臺北市南港區三重路19之13號14樓
+2023-03-01 14:17:16,428 - [line:35] - DEBUG: ### time is random delay: 4.5 s###
+2023-03-01 14:17:17,800 - [line:125] - INFO: [89] taxId: 24486209 
+capitalAmount:55000000
+email:
+website:
+phone:02-2655-2211
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:17:22,309 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:17:25,878 - [line:125] - INFO: [90] taxId: 24495468 
+capitalAmount:4000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19號2樓
+2023-03-01 14:17:27,805 - [line:35] - DEBUG: ### time is random delay: 0.5 s###
+2023-03-01 14:17:32,468 - [line:125] - INFO: [91] taxId: 24535010 
+capitalAmount:62869000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號12樓
+2023-03-01 14:17:32,976 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:17:34,352 - [line:125] - INFO: [92] taxId: 24537100 
+capitalAmount:60000000
+email:
+website:
+phone:02-7722-1236
+companyAddress:臺北市南港區三重路66號7樓之5
+2023-03-01 14:17:38,164 - [line:35] - DEBUG: ### time is random delay: 1.0 s###
+2023-03-01 14:17:39,812 - [line:125] - INFO: [93] taxId: 24558245 
+capitalAmount:780000000
+email:
+website:
+phone:02-2655-7790
+companyAddress:臺北市南港區園區街3號17樓之1
+2023-03-01 14:17:40,847 - [line:35] - DEBUG: ### time is random delay: 0.3 s###
+2023-03-01 14:17:42,565 - [line:125] - INFO: [94] taxId: 24561207 
+capitalAmount:50000000
+email:
+website:
+phone:02-6616-6608
+companyAddress:臺北市南港區三重路19之11號4樓
+2023-03-01 14:17:42,900 - [line:35] - DEBUG: ### time is random delay: 3.0 s###
+2023-03-01 14:17:44,931 - [line:125] - INFO: [95] taxId: 24564823 
+capitalAmount:1000000
+email:
+website:
+phone:02-2655-3363
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:17:47,942 - [line:35] - DEBUG: ### time is random delay: 1.8 s###
+2023-03-01 14:17:49,628 - [line:125] - INFO: [96] taxId: 24568807 
+capitalAmount:70000000
+email:
+website:
+phone:02-2655-3333
+companyAddress:臺北市南港區三重路19之9號5樓
+2023-03-01 14:17:51,434 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:17:52,839 - [line:125] - INFO: [97] taxId: 24740960 
+capitalAmount:6000000
+email:
+website:
+phone:02-2655-3093#115
+companyAddress:臺北市南港區園區街3號4樓
+2023-03-01 14:17:53,248 - [line:35] - DEBUG: ### time is random delay: 2.5 s###
+2023-03-01 14:17:54,594 - [line:125] - INFO: [98] taxId: 24744804 
+capitalAmount:
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:17:57,104 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:18:01,719 - [line:125] - INFO: [99] taxId: 24746367 
+capitalAmount:50000000
+email:
+website:
+phone:02-2789-2189
+companyAddress:臺北市南港區經貿二路66號16樓之1
+2023-03-01 14:18:05,623 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:18:07,289 - [line:125] - INFO: [100] taxId: 24746612 
+capitalAmount:8000000
+email:
+website:
+phone:02-2651-8190
+companyAddress:臺北市南港區三重路19之13號4樓
+2023-03-01 14:18:08,896 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:18:10,261 - [line:125] - INFO: [101] taxId: 24748610 
+capitalAmount:3000000
+email:
+website:
+phone:02-2655-2655
+companyAddress:臺北市南港區三重路19之3號9樓之3
+2023-03-01 14:18:14,069 - [line:35] - DEBUG: ### time is random delay: 3.2 s###
+2023-03-01 14:18:15,318 - [line:125] - INFO: [102] taxId: 24749478 
+capitalAmount:2000000
+email:
+website:
+phone:02-2655-0668
+companyAddress:臺北市南港區園區街3之1號6樓之 2
+2023-03-01 14:18:18,537 - [line:35] - DEBUG: ### time is random delay: 4.9 s###
+2023-03-01 14:18:20,157 - [line:125] - INFO: [103] taxId: 24757286 
+capitalAmount:200000
+email:
+website:
+phone:02-8771-7145
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:18:25,088 - [line:35] - DEBUG: ### time is random delay: 0.6 s###
+2023-03-01 14:18:26,858 - [line:125] - INFO: [104] taxId: 24770680 
+capitalAmount:10000000
+email:
+website:
+phone:02-2655-8000#709
+companyAddress:臺北市南港區園區街3之1號4樓
+2023-03-01 14:18:27,468 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:18:28,791 - [line:125] - INFO: [105] taxId: 24778536 
+capitalAmount:12000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19-13號7樓
+2023-03-01 14:18:31,400 - [line:35] - DEBUG: ### time is random delay: 0.7 s###
+2023-03-01 14:18:33,630 - [line:125] - INFO: [106] taxId: 24779958 
+capitalAmount:125000000
+email:
+website:
+phone:02-2510-6000
+companyAddress:臺北市南港區經貿二路66號10樓
+2023-03-01 14:18:34,335 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:18:38,564 - [line:125] - INFO: [107] taxId: 24843993 
+capitalAmount:440357960
+email:
+website:
+phone:02-7747-8888
+companyAddress:臺北市南港區園區街3號2樓之2
+2023-03-01 14:18:40,173 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:18:41,709 - [line:125] - INFO: [108] taxId: 24933615 
+capitalAmount:155000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號11樓
+2023-03-01 14:18:42,116 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:18:43,870 - [line:125] - INFO: [109] taxId: 24967570 
+capitalAmount:20000000
+email:
+website:
+phone:02-2789-2000
+companyAddress:臺北市南港區三重路19之6號1樓
+2023-03-01 14:18:47,394 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:18:48,713 - [line:125] - INFO: [110] taxId: 24973088 
+capitalAmount:150000000
+email:
+website:
+phone:02-6616-0008#122
+companyAddress:臺北市南港區園區街3號12樓之5
+2023-03-01 14:18:52,843 - [line:35] - DEBUG: ### time is random delay: 1.7 s###
+2023-03-01 14:18:54,901 - [line:125] - INFO: [111] taxId: 24975678 
+capitalAmount:100000000
+email:
+website:
+phone:02-3789-2227
+companyAddress:臺北市南港區園區街3之1號15樓之1
+2023-03-01 14:18:56,607 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:18:58,278 - [line:125] - INFO: [112] taxId: 25103860 
+capitalAmount:10000000
+email:
+website:
+phone:02-2655-2777
+companyAddress:臺北市南港區三重路19之6號10樓
+2023-03-01 14:19:01,186 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:19:02,606 - [line:125] - INFO: [113] taxId: 25114206 
+capitalAmount:75000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號14樓
+2023-03-01 14:19:05,239 - [line:35] - DEBUG: ### time is random delay: 0.7 s###
+2023-03-01 14:19:06,585 - [line:125] - INFO: [114] taxId: 25139142 
+capitalAmount:56899800
+email:
+website:
+phone:02-2657-3198
+companyAddress:臺北市南港區三重路66號6樓
+2023-03-01 14:19:07,292 - [line:35] - DEBUG: ### time is random delay: 2.2 s###
+2023-03-01 14:19:08,531 - [line:125] - INFO: [115] taxId: 25146072 
+capitalAmount:237930500
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之1號12樓之1
+2023-03-01 14:19:10,737 - [line:35] - DEBUG: ### time is random delay: 1.7 s###
+2023-03-01 14:19:14,018 - [line:125] - INFO: [116] taxId: 25147234 
+capitalAmount:101500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之1號12樓之1
+2023-03-01 14:19:15,724 - [line:35] - DEBUG: ### time is random delay: 4.8 s###
+2023-03-01 14:19:17,055 - [line:125] - INFO: [117] taxId: 25148418 
+capitalAmount:10000000
+email:
+website:
+phone:02-2655-8898
+companyAddress:臺北市南港區園區街3之2號10樓之2
+2023-03-01 14:19:21,880 - [line:35] - DEBUG: ### time is random delay: 3.3 s###
+2023-03-01 14:19:23,203 - [line:125] - INFO: [118] taxId: 27315046 
+capitalAmount:2500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號9樓
+2023-03-01 14:19:26,510 - [line:35] - DEBUG: ### time is random delay: 0.6 s###
+2023-03-01 14:19:28,011 - [line:125] - INFO: [119] taxId: 27332137 
+capitalAmount:89470000
+email:
+website:
+phone:02-2655-8680#501
+companyAddress:臺北市南港區園區街3之2號7樓
+2023-03-01 14:19:28,615 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:19:30,252 - [line:125] - INFO: [120] taxId: 27334424 
+capitalAmount:120000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之9號7樓
+2023-03-01 14:19:32,961 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:19:34,328 - [line:125] - INFO: [121] taxId: 27351767 
+capitalAmount:50000000
+email:
+website:
+phone:02-5553-5100
+companyAddress:臺北市南港區三重路19之6號7樓
+2023-03-01 14:19:36,951 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:19:38,572 - [line:125] - INFO: [122] taxId: 27522328 
+capitalAmount:600000000
+email:
+website:
+phone:02-2597-6878
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:19:38,682 - [line:35] - DEBUG: ### time is random delay: 3.2 s###
+2023-03-01 14:19:40,626 - [line:125] - INFO: [123] taxId: 27546460 
+capitalAmount:105000000
+email:
+website:
+phone:02-2655-2111
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:19:43,833 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:19:45,839 - [line:125] - INFO: [124] taxId: 27554334 
+capitalAmount:100000000
+email:
+website:
+phone:02-2712-6811
+companyAddress:臺北市南港區園區街3號13樓之5
+2023-03-01 14:19:47,446 - [line:35] - DEBUG: ### time is random delay: 3.1 s###
+2023-03-01 14:19:49,099 - [line:125] - INFO: [125] taxId: 27569553 
+capitalAmount:30000000
+email:
+website:
+phone:02-2651-9868
+companyAddress:臺北市南港區三重路19之9號5樓(D室)
+2023-03-01 14:19:52,207 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:19:53,521 - [line:125] - INFO: [126] taxId: 27574839 
+capitalAmount:600000000
+email:
+website:
+phone:02-2788-8118
+companyAddress:臺北市南港區三重路19之9號6樓
+2023-03-01 14:19:57,827 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:19:59,167 - [line:125] - INFO: [127] taxId: 27576203 
+capitalAmount:5000000
+email:
+website:
+phone:02-2785-2155
+companyAddress:臺北市南港區三重路66號3樓
+2023-03-01 14:20:02,073 - [line:35] - DEBUG: ### time is random delay: 4.4 s###
+2023-03-01 14:20:03,411 - [line:125] - INFO: [128] taxId: 27740062 
+capitalAmount:100000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:20:07,818 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:20:09,099 - [line:125] - INFO: [129] taxId: 27741386 
+capitalAmount:20000000
+email:
+website:
+phone:02-2375-8118
+companyAddress:臺北市南港區園區街3之2號13樓
+2023-03-01 14:20:13,805 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:20:15,091 - [line:125] - INFO: [130] taxId: 27768390 
+capitalAmount:100000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之8號6樓
+2023-03-01 14:20:15,912 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:20:17,620 - [line:125] - INFO: [131] taxId: 27912521 
+capitalAmount:588000000
+email:
+website:
+phone:02-6616-0888
+companyAddress:臺北市南港區園區街3之1號17樓
+2023-03-01 14:20:17,727 - [line:35] - DEBUG: ### time is random delay: 1.7 s###
+2023-03-01 14:20:18,863 - [line:88] - ERROR: [132] 27966981 Request不到或出問題
+2023-03-01 14:20:18,943 - [line:125] - INFO: [132] taxId: 27966981 
+capitalAmount:588000000
+email:
+website:
+phone:02-6616-0888
+companyAddress:臺北市南港區園區街3之1號17樓
+2023-03-01 14:20:20,648 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:20:22,001 - [line:125] - INFO: [133] taxId: 27969278 
+capitalAmount:82000000
+email:
+website:
+phone:02-7722-6899
+companyAddress:臺北市南港區園區街3號9樓
+2023-03-01 14:20:26,109 - [line:35] - DEBUG: ### time is random delay: 4.6 s###
+2023-03-01 14:20:27,762 - [line:125] - INFO: [134] taxId: 27976720 
+capitalAmount:500000000
+email:ir@icatchinc.com
+website:www.icatchinc.com
+phone:02-5550-6660
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:20:32,371 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:20:34,057 - [line:125] - INFO: [135] taxId: 28002660 
+capitalAmount:68000000
+email:
+website:
+phone:02-2651-1338
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:20:36,763 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:20:38,576 - [line:125] - INFO: [136] taxId: 28003387 
+capitalAmount:10000000
+email:
+website:
+phone:02-7736-1278
+companyAddress:臺北市南港區園區街3號14樓之3
+2023-03-01 14:20:39,981 - [line:35] - DEBUG: ### time is random delay: 3.2 s###
+2023-03-01 14:20:41,358 - [line:125] - INFO: [137] taxId: 28225120 
+capitalAmount:5000000
+email:
+website:
+phone:02-2655-1266
+companyAddress:臺北市南港區三重路19-13號7樓
+2023-03-01 14:20:44,583 - [line:35] - DEBUG: ### time is random delay: 1.3 s###
+2023-03-01 14:20:47,472 - [line:125] - INFO: [138] taxId: 28371994 
+capitalAmount:500000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之5號2樓
+2023-03-01 14:20:48,777 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:20:50,145 - [line:125] - INFO: [139] taxId: 28443694 
+capitalAmount:100000000
+email:
+website:
+phone:02-2654-7688
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:20:50,953 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:20:52,647 - [line:125] - INFO: [140] taxId: 28458149 
+capitalAmount:10000000
+email:
+website:
+phone:02-2655-2111
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:20:56,455 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:20:58,576 - [line:125] - INFO: [141] taxId: 28462376 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:21:02,088 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:21:03,500 - [line:125] - INFO: [142] taxId: 28470544 
+capitalAmount:17077344
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號9樓
+2023-03-01 14:21:07,009 - [line:35] - DEBUG: ### time is random delay: 1.0 s###
+2023-03-01 14:21:08,908 - [line:125] - INFO: [143] taxId: 28481520 
+capitalAmount:460762950
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:21:09,914 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:21:11,278 - [line:125] - INFO: [144] taxId: 28485194 
+capitalAmount:50000000
+email:
+website:
+phone:02-2771-3839
+companyAddress:臺北市南港區園區街3號12樓之3
+2023-03-01 14:21:15,982 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:21:19,325 - [line:125] - INFO: [145] taxId: 28653662 
+capitalAmount:2700000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之6號7樓
+2023-03-01 14:21:20,852 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:21:25,845 - [line:125] - INFO: [146] taxId: 28673169 
+capitalAmount:1500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號7樓之3
+2023-03-01 14:21:29,772 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:21:34,429 - [line:125] - INFO: [147] taxId: 28692193 
+capitalAmount:28000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號4樓之3
+2023-03-01 14:21:38,243 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:21:39,613 - [line:125] - INFO: [148] taxId: 28694903 
+capitalAmount:27000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3-2號6樓之1
+2023-03-01 14:21:44,324 - [line:35] - DEBUG: ### time is random delay: 3.6 s###
+2023-03-01 14:21:45,741 - [line:125] - INFO: [149] taxId: 28695868 
+capitalAmount:18000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3-2號6樓之1
+2023-03-01 14:21:49,349 - [line:35] - DEBUG: ### time is random delay: 0.5 s###
+2023-03-01 14:21:50,866 - [line:125] - INFO: [150] taxId: 28708060 
+capitalAmount:1000000
+email:
+website:
+phone:02-2655-2211
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:21:51,376 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:21:53,338 - [line:125] - INFO: [151] taxId: 28710642 
+capitalAmount:115000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19-13號7樓
+2023-03-01 14:21:54,161 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:21:55,784 - [line:125] - INFO: [152] taxId: 28711781 
+capitalAmount:6000000000
+email:
+website:
+phone:02-6600-5268
+companyAddress:臺北市南港區園區街3之2號7樓
+2023-03-01 14:21:57,189 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:21:58,522 - [line:125] - INFO: [153] taxId: 28713839 
+capitalAmount:10000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號7樓之3
+2023-03-01 14:21:58,660 - [line:35] - DEBUG: ### time is random delay: 0.3 s###
+2023-03-01 14:21:59,991 - [line:125] - INFO: [154] taxId: 28820303 
+capitalAmount:29000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:22:00,298 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:22:01,637 - [line:125] - INFO: [155] taxId: 28824835 
+capitalAmount:29000000
+email:
+website:
+phone:02-2655-1266#189
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:22:04,070 - [line:35] - DEBUG: ### time is random delay: 4.5 s###
+2023-03-01 14:22:05,403 - [line:125] - INFO: [156] taxId: 28855739 
+capitalAmount:8000000
+email:
+website:
+phone:02-2771-9901
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:22:09,924 - [line:35] - DEBUG: ### time is random delay: 1.0 s###
+2023-03-01 14:22:11,710 - [line:125] - INFO: [157] taxId: 28988941 
+capitalAmount:1500000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3-1號6樓之2
+2023-03-01 14:22:12,718 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:22:13,995 - [line:125] - INFO: [158] taxId: 29036323 
+capitalAmount:500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之4號
+2023-03-01 14:22:15,911 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:22:17,215 - [line:125] - INFO: [159] taxId: 29055257 
+capitalAmount:4000000
+email:
+website:
+phone:02-7723-6668
+companyAddress:臺北市南港區園區街3號9樓
+2023-03-01 14:22:19,845 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:22:21,452 - [line:125] - INFO: [160] taxId: 29056848 
+capitalAmount:2000000
+email:
+website:
+phone:02-2655-1989
+companyAddress:臺北市南港區三重路19之6號10樓
+2023-03-01 14:22:22,981 - [line:35] - DEBUG: ### time is random delay: 0.7 s###
+2023-03-01 14:22:24,285 - [line:125] - INFO: [161] taxId: 29070074 
+capitalAmount:27000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號6樓之1
+2023-03-01 14:22:24,995 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:22:26,324 - [line:125] - INFO: [162] taxId: 29071897 
+capitalAmount:29000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號6樓之1
+2023-03-01 14:22:27,733 - [line:35] - DEBUG: ### time is random delay: 4.8 s###
+2023-03-01 14:22:29,386 - [line:125] - INFO: [163] taxId: 29072360 
+capitalAmount:11680000
+email:
+website:
+phone:02-2732-6633
+companyAddress:臺北市南港區三重路19之3號9樓
+2023-03-01 14:22:34,196 - [line:35] - DEBUG: ### time is random delay: 1.2 s###
+2023-03-01 14:22:35,659 - [line:125] - INFO: [164] taxId: 29095552 
+capitalAmount:40000000
+email:
+website:
+phone:02-2655-8797
+companyAddress:臺北市南港區園區街3之2號4樓之2
+2023-03-01 14:22:36,865 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:22:38,550 - [line:125] - INFO: [165] taxId: 29151337 
+capitalAmount:60000000
+email:service@arplanet.com.tw
+website:www.arplanet.com.tw
+phone:02-2655-2225
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:22:43,261 - [line:35] - DEBUG: ### time is random delay: 0.3 s###
+2023-03-01 14:22:44,646 - [line:125] - INFO: [166] taxId: 29171100 
+capitalAmount:20000000
+email:
+website:
+phone:02-2990-3498
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:22:44,952 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:22:46,624 - [line:125] - INFO: [167] taxId: 29176695 
+capitalAmount:100000000
+email:
+website:
+phone:02-7720-0999
+companyAddress:臺北市南港區園區街3之1號4樓之3
+2023-03-01 14:22:50,934 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:22:52,244 - [line:125] - INFO: [168] taxId: 29185012 
+capitalAmount:2000000
+email:
+website:
+phone:02-2653-8080
+companyAddress:臺北市南港區園區街3號10樓之2
+2023-03-01 14:22:53,051 - [line:35] - DEBUG: ### time is random delay: 4.9 s###
+2023-03-01 14:22:55,939 - [line:125] - INFO: [169] taxId: 30828484 
+capitalAmount:12000000
+email:
+website:
+phone:02-2655-1266
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:23:00,846 - [line:35] - DEBUG: ### time is random delay: 0.9 s###
+2023-03-01 14:23:02,253 - [line:125] - INFO: [170] taxId: 30852863 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號9樓
+2023-03-01 14:23:03,164 - [line:35] - DEBUG: ### time is random delay: 2.3 s###
+2023-03-01 14:23:11,454 - [line:125] - INFO: [171] taxId: 30872489 
+capitalAmount:7000000
+email:
+website:
+phone:02-2655-1266
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:23:13,773 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:23:17,248 - [line:125] - INFO: [172] taxId: 33059683 
+capitalAmount:500000000
+email:
+website:
+phone:02-2655-8218
+companyAddress:臺北市南港區園區街3號16樓
+2023-03-01 14:23:20,779 - [line:35] - DEBUG: ### time is random delay: 4.4 s###
+2023-03-01 14:23:24,385 - [line:125] - INFO: [173] taxId: 33150155 
+capitalAmount:15500000
+email:
+website:
+phone:02-2627-2291
+companyAddress:臺北市南港區三重路19之3號7樓之3
+2023-03-01 14:23:28,815 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:23:31,639 - [line:125] - INFO: [174] taxId: 34060414 
+capitalAmount:200000000
+email:
+website:
+phone:02-2653-2688
+companyAddress:臺北市南港區三重路66號4樓
+2023-03-01 14:23:34,567 - [line:35] - DEBUG: ### time is random delay: 2.1 s###
+2023-03-01 14:23:36,548 - [line:125] - INFO: [175] taxId: 42404010 
+capitalAmount:2500000000
+email:ir@biogend.com.tw
+website:https://www.biogend.com.tw/
+phone:02-2655-8366
+companyAddress:臺北市南港區園區街3-2號4樓
+2023-03-01 14:23:38,669 - [line:35] - DEBUG: ### time is random delay: 4.2 s###
+2023-03-01 14:23:43,462 - [line:125] - INFO: [176] taxId: 42611783 
+capitalAmount:24300000
+email:
+website:
+phone:02-2655-7950
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:23:47,668 - [line:35] - DEBUG: ### time is random delay: 4.5 s###
+2023-03-01 14:23:49,037 - [line:125] - INFO: [177] taxId: 42613635 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號12樓之5
+2023-03-01 14:23:53,557 - [line:35] - DEBUG: ### time is random delay: 2.8 s###
+2023-03-01 14:23:54,961 - [line:125] - INFO: [178] taxId: 42614542 
+capitalAmount:50000000
+email:
+website:
+phone:02-8797-7000
+companyAddress:臺北市南港區園區街3之2號11樓之1
+2023-03-01 14:23:57,769 - [line:35] - DEBUG: ### time is random delay: 3.6 s###
+2023-03-01 14:24:10,905 - [line:125] - INFO: [179] taxId: 42629849 
+capitalAmount:50000000
+email:
+website:
+phone:02-2782-1238
+companyAddress:臺北市南港區三重路19之3號6樓之1
+2023-03-01 14:24:14,510 - [line:35] - DEBUG: ### time is random delay: 1.7 s###
+2023-03-01 14:24:15,861 - [line:125] - INFO: [180] taxId: 42650933 
+capitalAmount:10000000
+email:
+website:
+phone:02-2655-1998
+companyAddress:臺北市南港區三重路19之6號10樓
+2023-03-01 14:24:17,568 - [line:35] - DEBUG: ### time is random delay: 1.7 s###
+2023-03-01 14:24:18,916 - [line:125] - INFO: [181] taxId: 42712608 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號5樓
+2023-03-01 14:24:20,641 - [line:35] - DEBUG: ### time is random delay: 4.9 s###
+2023-03-01 14:24:21,839 - [line:88] - ERROR: [182] 42719861 Request不到或出問題
+2023-03-01 14:24:21,925 - [line:125] - INFO: [182] taxId: 42719861 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號5樓
+2023-03-01 14:24:26,832 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:24:28,291 - [line:125] - INFO: [183] taxId: 42724055 
+capitalAmount:2000000
+email:
+website:
+phone:02-8252-8705
+companyAddress:臺北市南港區三重路19之10號2樓
+2023-03-01 14:24:29,904 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:24:31,983 - [line:125] - INFO: [184] taxId: 42730134 
+capitalAmount:20000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:24:35,889 - [line:35] - DEBUG: ### time is random delay: 0.9 s###
+2023-03-01 14:24:37,646 - [line:125] - INFO: [185] taxId: 42781323 
+capitalAmount:
+email:
+website:
+phone:02-2655-7365
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:24:38,557 - [line:35] - DEBUG: ### time is random delay: 3.3 s###
+2023-03-01 14:24:40,033 - [line:125] - INFO: [186] taxId: 42823436 
+capitalAmount:105000000
+email:
+website:
+phone:02-6600-5699
+companyAddress:臺北市南港區園區街3號9樓
+2023-03-01 14:24:43,338 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:24:45,159 - [line:125] - INFO: [187] taxId: 42838254 
+capitalAmount:10000000
+email:
+website:
+phone:02-6616-8178
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:24:45,366 - [line:35] - DEBUG: ### time is random delay: 0.6 s###
+2023-03-01 14:24:47,457 - [line:125] - INFO: [188] taxId: 42842476 
+capitalAmount:5000000
+email:
+website:
+phone:02-6619-1808
+companyAddress:臺北市南港區三重路19之11號15樓
+2023-03-01 14:24:48,064 - [line:35] - DEBUG: ### time is random delay: 0.9 s###
+2023-03-01 14:24:55,071 - [line:125] - INFO: [189] taxId: 42848400 
+capitalAmount:500000000
+email:
+website:
+phone:02-2655-8680
+companyAddress:臺北市南港區園區街3-2號7樓
+2023-03-01 14:24:55,984 - [line:35] - DEBUG: ### time is random delay: 4.5 s###
+2023-03-01 14:24:57,761 - [line:125] - INFO: [190] taxId: 42852591 
+capitalAmount:765000000
+email:
+website:
+phone:02-2655-3377
+companyAddress:臺北市松山區敦化北路122號5樓
+2023-03-01 14:25:02,283 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:25:05,698 - [line:125] - INFO: [191] taxId: 42855324 
+capitalAmount:5000000
+email:
+website:
+phone:02-6616-9966
+companyAddress:臺北市南港區園區街3號2樓之7
+2023-03-01 14:25:07,604 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:25:09,009 - [line:125] - INFO: [192] taxId: 42857575 
+capitalAmount:
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:25:10,431 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:25:12,203 - [line:125] - INFO: [193] taxId: 42859497 
+capitalAmount:400000000
+email:
+website:
+phone:02-2655-8399
+companyAddress:臺北市南港區園區街3之2號4樓
+2023-03-01 14:25:13,012 - [line:35] - DEBUG: ### time is random delay: 4.2 s###
+2023-03-01 14:25:14,721 - [line:125] - INFO: [194] taxId: 42867335 
+capitalAmount:3680000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號4樓
+2023-03-01 14:25:18,928 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:25:20,231 - [line:125] - INFO: [195] taxId: 42993311 
+capitalAmount:28000000
+email:
+website:
+phone:02-2655-3718
+companyAddress:臺北市南港區三重路19之11號5樓
+2023-03-01 14:25:22,153 - [line:35] - DEBUG: ### time is random delay: 0.9 s###
+2023-03-01 14:25:26,856 - [line:125] - INFO: [196] taxId: 42996653 
+capitalAmount:29973100
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號7樓
+2023-03-01 14:25:27,761 - [line:35] - DEBUG: ### time is random delay: 5.0 s###
+2023-03-01 14:25:29,839 - [line:125] - INFO: [197] taxId: 42996696 
+capitalAmount:1000000
+email:
+website:
+phone:02-2655-1780
+companyAddress:臺北市南港區三重路19之11號5樓
+2023-03-01 14:25:34,845 - [line:35] - DEBUG: ### time is random delay: 1.8 s###
+2023-03-01 14:25:38,200 - [line:125] - INFO: [198] taxId: 43455509 
+capitalAmount:300000000
+email:
+website:
+phone:02-2655-0052
+companyAddress:臺北市南港區三重路19之3號5樓
+2023-03-01 14:25:40,007 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:25:41,298 - [line:88] - ERROR: [199] 43742968 Request不到或出問題
+2023-03-01 14:25:41,491 - [line:125] - INFO: [199] taxId: 43742968 
+capitalAmount:300000000
+email:
+website:
+phone:02-2655-0052
+companyAddress:臺北市南港區三重路19之3號5樓
+2023-03-01 14:25:44,199 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:25:47,201 - [line:125] - INFO: [200] taxId: 43757238 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:25:50,110 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:25:51,537 - [line:125] - INFO: [201] taxId: 43757379 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:25:53,465 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:25:54,863 - [line:125] - INFO: [202] taxId: 43757440 
+capitalAmount:29803310
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:25:59,573 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:26:00,973 - [line:125] - INFO: [203] taxId: 43757455 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:26:04,993 - [line:35] - DEBUG: ### time is random delay: 2.8 s###
+2023-03-01 14:26:08,170 - [line:125] - INFO: [204] taxId: 43757602 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:26:11,012 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:26:12,303 - [line:125] - INFO: [205] taxId: 43757928 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:26:13,930 - [line:35] - DEBUG: ### time is random delay: 0.9 s###
+2023-03-01 14:26:15,244 - [line:125] - INFO: [206] taxId: 43830414 
+capitalAmount:60000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:26:16,150 - [line:35] - DEBUG: ### time is random delay: 2.3 s###
+2023-03-01 14:26:17,911 - [line:125] - INFO: [207] taxId: 43935711 
+capitalAmount:20000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:26:20,216 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:26:21,634 - [line:125] - INFO: [208] taxId: 43940897 
+capitalAmount:500000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:26:25,143 - [line:35] - DEBUG: ### time is random delay: 0.3 s###
+2023-03-01 14:26:26,497 - [line:125] - INFO: [209] taxId: 43944373 
+capitalAmount:29974200
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:26:26,813 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:26:30,210 - [line:125] - INFO: [210] taxId: 44882516 
+capitalAmount:424125200
+email:
+website:
+phone:02-2789-1117
+companyAddress:臺北市南港區三重路66號7樓
+2023-03-01 14:26:34,020 - [line:35] - DEBUG: ### time is random delay: 1.2 s###
+2023-03-01 14:26:37,366 - [line:125] - INFO: [211] taxId: 45030520 
+capitalAmount:800000000
+email:
+website:
+phone:02-2655-3099
+companyAddress:臺北市松山區敦化北路122號5樓
+2023-03-01 14:26:38,574 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:26:40,618 - [line:125] - INFO: [212] taxId: 50753222 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:26:40,823 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:26:42,256 - [line:125] - INFO: [213] taxId: 50769574 
+capitalAmount:29473100
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3-2號7樓
+2023-03-01 14:26:44,863 - [line:35] - DEBUG: ### time is random delay: 1.7 s###
+2023-03-01 14:26:48,456 - [line:125] - INFO: [214] taxId: 50772635 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:26:50,163 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:26:54,879 - [line:125] - INFO: [215] taxId: 50773471 
+capitalAmount:10000000
+email:
+website:
+phone:02-2788-0681
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:26:58,886 - [line:35] - DEBUG: ### time is random delay: 0.9 s###
+2023-03-01 14:27:11,791 - [line:125] - INFO: [216] taxId: 50775507 
+capitalAmount:50000000
+email:
+website:
+phone:02-2785-0962
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:27:12,698 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:27:15,201 - [line:125] - INFO: [217] taxId: 50783160 
+capitalAmount:200000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之9號5樓
+2023-03-01 14:27:19,022 - [line:35] - DEBUG: ### time is random delay: 3.4 s###
+2023-03-01 14:27:25,145 - [line:125] - INFO: [218] taxId: 50786363 
+capitalAmount:2000000
+email:
+website:
+phone:02-8771-7145
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:27:28,575 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:27:30,613 - [line:125] - INFO: [219] taxId: 50787433 
+capitalAmount:100000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:27:34,123 - [line:35] - DEBUG: ### time is random delay: 3.3 s###
+2023-03-01 14:27:38,777 - [line:125] - INFO: [220] taxId: 50788550 
+capitalAmount:8000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:27:42,106 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:27:43,556 - [line:125] - INFO: [221] taxId: 50794960 
+capitalAmount:20000000
+email:
+website:
+phone:02-2655-8198
+companyAddress:臺北市南港區園區街3號13樓
+2023-03-01 14:27:47,864 - [line:35] - DEBUG: ### time is random delay: 4.4 s###
+2023-03-01 14:27:50,678 - [line:125] - INFO: [222] taxId: 50794975 
+capitalAmount:20000000
+email:
+website:
+phone:02-2655-8198
+companyAddress:臺北市南港區園區街3號13樓
+2023-03-01 14:27:55,085 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:27:59,176 - [line:125] - INFO: [223] taxId: 50797925 
+capitalAmount:1200000000
+email:
+website:
+phone:02-6616-6626#8806
+companyAddress:臺北市南港區三重路19之11號15樓
+2023-03-01 14:28:03,081 - [line:35] - DEBUG: ### time is random delay: 1.1 s###
+2023-03-01 14:28:06,127 - [line:125] - INFO: [224] taxId: 50859055 
+capitalAmount:
+email:
+website:
+phone:02-2655-2619
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:28:07,252 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:28:08,594 - [line:125] - INFO: [225] taxId: 50875323 
+capitalAmount:500000
+email:
+website:
+phone:02-7751-5161
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:28:08,802 - [line:35] - DEBUG: ### time is random delay: 3.0 s###
+2023-03-01 14:28:11,341 - [line:125] - INFO: [226] taxId: 50875560 
+capitalAmount:5000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19-11號3樓
+2023-03-01 14:28:14,370 - [line:35] - DEBUG: ### time is random delay: 4.6 s###
+2023-03-01 14:28:15,778 - [line:125] - INFO: [227] taxId: 50881612 
+capitalAmount:100000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:28:20,387 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:28:21,735 - [line:125] - INFO: [228] taxId: 50882204 
+capitalAmount:100000000
+email:
+website:
+phone:02-2655-7557
+companyAddress:臺北市松山區敦化北路122號5樓
+2023-03-01 14:28:25,609 - [line:35] - DEBUG: ### time is random delay: 3.3 s###
+2023-03-01 14:28:37,973 - [line:125] - INFO: [229] taxId: 50883914 
+capitalAmount:100000000
+email:
+website:
+phone:02-2655-7166#220
+companyAddress:臺北市南港區園區街3號10樓之6
+2023-03-01 14:28:41,279 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:28:43,884 - [line:125] - INFO: [230] taxId: 50886166 
+capitalAmount:10000000
+email:
+website:
+phone:02-2655-2111
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:28:46,592 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:28:50,416 - [line:125] - INFO: [231] taxId: 50897939 
+capitalAmount:50000000
+email:
+website:
+phone:02-2655-3333
+companyAddress:臺北市南港區三重路19之8號6樓
+2023-03-01 14:28:54,423 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:28:55,842 - [line:125] - INFO: [232] taxId: 50906254 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號6樓之1
+2023-03-01 14:28:56,667 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:28:59,700 - [line:125] - INFO: [233] taxId: 50906260 
+capitalAmount:21500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號6樓之1
+2023-03-01 14:29:00,108 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:29:01,858 - [line:125] - INFO: [234] taxId: 50913781 
+capitalAmount:20000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:29:03,479 - [line:35] - DEBUG: ### time is random delay: 1.8 s###
+2023-03-01 14:29:04,785 - [line:88] - ERROR: [235] 50990225 Request不到或出問題
+2023-03-01 14:29:04,930 - [line:125] - INFO: [235] taxId: 50990225 
+capitalAmount:20000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:29:06,757 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:29:09,483 - [line:125] - INFO: [236] taxId: 51701407 
+capitalAmount:4000000000
+email:
+website:
+phone:02-2653-2688
+companyAddress:臺北市南港區三重路66號4樓
+2023-03-01 14:29:14,189 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:29:15,507 - [line:125] - INFO: [237] taxId: 51965006 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號12樓
+2023-03-01 14:29:15,635 - [line:35] - DEBUG: ### time is random delay: 4.8 s###
+2023-03-01 14:29:16,944 - [line:125] - INFO: [238] taxId: 52205031 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19-2號11樓
+2023-03-01 14:29:21,750 - [line:35] - DEBUG: ### time is random delay: 3.4 s###
+2023-03-01 14:29:25,602 - [line:125] - INFO: [239] taxId: 52274944 
+capitalAmount:37000000
+email:
+website:
+phone:02-2232-0232#18
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:29:29,009 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:29:32,213 - [line:125] - INFO: [240] taxId: 52328955 
+capitalAmount:750200000
+email:
+website:
+phone:02-8170-9999
+companyAddress:臺北市南港區三重路19之9號4樓
+2023-03-01 14:29:36,119 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:29:39,990 - [line:125] - INFO: [241] taxId: 52497728 
+capitalAmount:65000000
+email:
+website:
+phone:02-2655-8198
+companyAddress:臺北市南港區園區街3號13樓
+2023-03-01 14:29:43,722 - [line:35] - DEBUG: ### time is random delay: 0.6 s###
+2023-03-01 14:29:47,272 - [line:125] - INFO: [242] taxId: 52526364 
+capitalAmount:3000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之15號1樓
+2023-03-01 14:29:47,903 - [line:35] - DEBUG: ### time is random delay: 2.5 s###
+2023-03-01 14:29:52,511 - [line:125] - INFO: [243] taxId: 52532648 
+capitalAmount:
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:29:55,018 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:29:56,359 - [line:125] - INFO: [244] taxId: 52597563 
+capitalAmount:100000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:29:57,164 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:29:59,332 - [line:125] - INFO: [245] taxId: 52604488 
+capitalAmount:5000000
+email:
+website:
+phone:02-8170-6666
+companyAddress:臺北市南港區三重路66號8樓
+2023-03-01 14:29:59,464 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:30:00,843 - [line:125] - INFO: [246] taxId: 52625245 
+capitalAmount:550000000
+email:
+website:
+phone:02-2782-7700
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:30:02,352 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:30:03,556 - [line:88] - ERROR: [247] 52696867 Request不到或出問題
+2023-03-01 14:30:03,723 - [line:125] - INFO: [247] taxId: 52696867 
+capitalAmount:550000000
+email:
+website:
+phone:02-2782-7700
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:30:05,327 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:30:06,645 - [line:125] - INFO: [248] taxId: 52796042 
+capitalAmount:35000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之6號7樓
+2023-03-01 14:30:11,349 - [line:35] - DEBUG: ### time is random delay: 1.7 s###
+2023-03-01 14:30:13,496 - [line:125] - INFO: [249] taxId: 53090466 
+capitalAmount:176110000
+email:
+website:
+phone:02-2655-1166
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:30:15,223 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:30:19,029 - [line:125] - INFO: [250] taxId: 53091471 
+capitalAmount:1200000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:30:20,535 - [line:35] - DEBUG: ### time is random delay: 4.6 s###
+2023-03-01 14:30:25,395 - [line:125] - INFO: [251] taxId: 53093421 
+capitalAmount:1000000000
+email:tsh@tshbiopharm.com
+website:http://www.tshbiopharm.com
+phone:02-2655-8525
+companyAddress:臺北市南港區園區街3之1號3樓之1
+2023-03-01 14:30:30,004 - [line:35] - DEBUG: ### time is random delay: 1.7 s###
+2023-03-01 14:30:32,757 - [line:125] - INFO: [252] taxId: 53099396 
+capitalAmount:20000000
+email:
+website:
+phone:02-2360-2888
+companyAddress:臺北市南港區三重路66號15樓
+2023-03-01 14:30:34,464 - [line:35] - DEBUG: ### time is random delay: 3.0 s###
+2023-03-01 14:30:38,035 - [line:125] - INFO: [253] taxId: 53103390 
+capitalAmount:2000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號10樓之2
+2023-03-01 14:30:41,040 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:30:42,309 - [line:88] - ERROR: [254] 53111309 Request不到或出問題
+2023-03-01 14:30:42,409 - [line:125] - INFO: [254] taxId: 53111309 
+capitalAmount:2000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號10樓之2
+2023-03-01 14:30:42,817 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:30:44,227 - [line:125] - INFO: [255] taxId: 53116331 
+capitalAmount:101750000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號7樓
+2023-03-01 14:30:45,745 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:30:49,340 - [line:125] - INFO: [256] taxId: 53216465 
+capitalAmount:20000000
+email:
+website:
+phone:02-8660-1715
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:30:49,748 - [line:35] - DEBUG: ### time is random delay: 0.5 s###
+2023-03-01 14:30:51,556 - [line:125] - INFO: [257] taxId: 53226196 
+capitalAmount:500000000
+email:IR@cybiotech.com.tw
+website:http://www.cybiotech.com.tw/index.php
+phone:02-2655-7339
+companyAddress:臺北市南港區園區街3之1號4樓
+2023-03-01 14:30:52,077 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:30:55,450 - [line:125] - INFO: [258] taxId: 53313749 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:30:59,367 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:31:04,028 - [line:125] - INFO: [259] taxId: 53340231 
+capitalAmount:430000000
+email:
+website:
+phone:02-2655-8998
+companyAddress:臺北市大同區重慶北路1段1之1號10樓
+2023-03-01 14:31:04,133 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:31:08,045 - [line:125] - INFO: [260] taxId: 53341816 
+capitalAmount:100000000
+email:
+website:
+phone:02-2655-1350
+companyAddress:臺北市南港區三重路19之5號2樓
+2023-03-01 14:31:12,351 - [line:35] - DEBUG: ### time is random delay: 2.5 s###
+2023-03-01 14:31:14,865 - [line:125] - INFO: [261] taxId: 53437018 
+capitalAmount:600000000
+email:
+website:
+phone:02-2950-0688
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:31:17,371 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:31:19,378 - [line:125] - INFO: [262] taxId: 53529570 
+capitalAmount:1500000000
+email:contact@trx.com.tw
+website:https://www.trx.com.tw/
+phone:02-2653-5007
+companyAddress:臺北市南港區三重路66號6樓之1
+2023-03-01 14:31:19,800 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:31:21,876 - [line:125] - INFO: [263] taxId: 53538851 
+capitalAmount:1000000000
+email:financial_material@opay.tw
+website:https://www.opay.tw
+phone:02-2655-0057
+companyAddress:臺北市南港區三重路19之2號5樓
+2023-03-01 14:31:25,382 - [line:35] - DEBUG: ### time is random delay: 3.6 s###
+2023-03-01 14:31:26,784 - [line:125] - INFO: [264] taxId: 53555295 
+capitalAmount:20000000
+email:
+website:
+phone:02-2655-2016
+companyAddress:臺北市南港區三重路19之11號E棟3樓
+2023-03-01 14:31:30,408 - [line:35] - DEBUG: ### time is random delay: 3.1 s###
+2023-03-01 14:31:33,418 - [line:125] - INFO: [265] taxId: 53555632 
+capitalAmount:2000000
+email:
+website:
+phone:02-2655-2898
+companyAddress:臺北市南港區三重路19之2號6樓之2
+2023-03-01 14:31:36,563 - [line:35] - DEBUG: ### time is random delay: 1.0 s###
+2023-03-01 14:31:39,701 - [line:125] - INFO: [266] taxId: 53558217 
+capitalAmount:7000000
+email:
+website:
+phone:02-2655-2298
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:31:40,711 - [line:35] - DEBUG: ### time is random delay: 3.1 s###
+2023-03-01 14:31:42,676 - [line:125] - INFO: [267] taxId: 53564132 
+capitalAmount:328261930
+email:
+website:
+phone:02-2655-8672
+companyAddress:臺北市南港區園區街3號9樓之1
+2023-03-01 14:31:45,794 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:31:47,173 - [line:125] - INFO: [268] taxId: 53565511 
+capitalAmount:10000000
+email:
+website:
+phone:02-7722-0700
+companyAddress:臺北市南港區園區街3之2號7樓之3
+2023-03-01 14:31:49,597 - [line:35] - DEBUG: ### time is random delay: 3.3 s###
+2023-03-01 14:31:51,053 - [line:125] - INFO: [269] taxId: 53736727 
+capitalAmount:60000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:31:54,385 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:31:58,438 - [line:125] - INFO: [270] taxId: 53761823 
+capitalAmount:500000000
+email:ir@kuobrothers.com
+website:http://www.kuobrothers.com
+phone:02-2655-2939
+companyAddress:臺北市南港區三重路19之3號5樓
+2023-03-01 14:31:59,945 - [line:35] - DEBUG: ### time is random delay: 3.3 s###
+2023-03-01 14:32:01,354 - [line:125] - INFO: [271] taxId: 53770323 
+capitalAmount:6200000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號4樓
+2023-03-01 14:32:04,662 - [line:35] - DEBUG: ### time is random delay: 3.2 s###
+2023-03-01 14:32:06,040 - [line:125] - INFO: [272] taxId: 53876661 
+capitalAmount:500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號4樓
+2023-03-01 14:32:09,248 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:32:13,067 - [line:125] - INFO: [273] taxId: 53909375 
+capitalAmount:10000000
+email:
+website:
+phone:02-2375-9880
+companyAddress:臺北市南港區三重路19之13號E棟4樓
+2023-03-01 14:32:14,495 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:32:18,646 - [line:125] - INFO: [274] taxId: 53916734 
+capitalAmount:150000000
+email:
+website:
+phone:02-2655-3333#3534
+companyAddress:臺北市南港區經貿二路66號2樓之2
+2023-03-01 14:32:22,453 - [line:35] - DEBUG: ### time is random delay: 4.6 s###
+2023-03-01 14:32:23,884 - [line:125] - INFO: [275] taxId: 53924185 
+capitalAmount:350000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:32:28,492 - [line:35] - DEBUG: ### time is random delay: 1.8 s###
+2023-03-01 14:32:31,551 - [line:125] - INFO: [276] taxId: 53925240 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號7樓之3
+2023-03-01 14:32:33,375 - [line:35] - DEBUG: ### time is random delay: 4.9 s###
+2023-03-01 14:32:34,731 - [line:125] - INFO: [277] taxId: 53925543 
+capitalAmount:22500000
+email:
+website:
+phone:02-8170-6060
+companyAddress:臺北市南港區園區街3之2號5樓之1
+2023-03-01 14:32:39,637 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:32:41,958 - [line:125] - INFO: [278] taxId: 53925564 
+capitalAmount:16000000
+email:
+website:
+phone:02-2655-8538
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:32:45,866 - [line:35] - DEBUG: ### time is random delay: 0.7 s###
+2023-03-01 14:32:49,700 - [line:125] - INFO: [279] taxId: 53939434 
+capitalAmount:
+email:
+website:
+phone:02-2791-5639
+companyAddress:臺北市南港區園區街3之2號13樓
+2023-03-01 14:32:50,427 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:32:51,833 - [line:125] - INFO: [280] taxId: 53943275 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號6樓之1
+2023-03-01 14:32:55,540 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:32:58,083 - [line:125] - INFO: [281] taxId: 53952870 
+capitalAmount:31300000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:33:02,090 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:33:03,478 - [line:125] - INFO: [282] taxId: 54139781 
+capitalAmount:16200000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號14樓之3
+2023-03-01 14:33:04,907 - [line:35] - DEBUG: ### time is random delay: 3.4 s###
+2023-03-01 14:33:06,684 - [line:125] - INFO: [283] taxId: 54165507 
+capitalAmount:3000000000
+email:info@foreseepharma.com
+website:www.foreseepharma.com
+phone:02-7750-0188
+companyAddress:臺北市南港區三重路19-3號9樓之2
+2023-03-01 14:33:10,094 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:33:12,305 - [line:125] - INFO: [284] taxId: 54167815 
+capitalAmount:24000000
+email:
+website:
+phone:02-2718-1657
+companyAddress:臺北市南港區三重路19之2號7樓之1
+2023-03-01 14:33:16,313 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:33:17,703 - [line:125] - INFO: [285] taxId: 54170115 
+capitalAmount:2320000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:33:19,310 - [line:35] - DEBUG: ### time is random delay: 4.5 s###
+2023-03-01 14:33:20,567 - [line:125] - INFO: [286] taxId: 54179283 
+capitalAmount:8000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號13樓
+2023-03-01 14:33:25,084 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:33:26,889 - [line:125] - INFO: [287] taxId: 54179426 
+capitalAmount:600000000
+email:info@gntbm.com.tw
+website:http://www.gntbm.com.tw
+phone:02-7722-0388
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:33:29,508 - [line:35] - DEBUG: ### time is random delay: 1.7 s###
+2023-03-01 14:33:31,691 - [line:125] - INFO: [288] taxId: 54322345 
+capitalAmount:300000000
+email:
+website:
+phone:02-6616-0008#122
+companyAddress:臺北市南港區園區街3號12樓之5
+2023-03-01 14:33:33,419 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:33:35,329 - [line:88] - ERROR: [289] 54322416 Request不到或出問題
+2023-03-01 14:33:35,417 - [line:125] - INFO: [289] taxId: 54322416 
+capitalAmount:300000000
+email:
+website:
+phone:02-6616-0008#122
+companyAddress:臺北市南港區園區街3號12樓之5
+2023-03-01 14:33:38,928 - [line:35] - DEBUG: ### time is random delay: 3.2 s###
+2023-03-01 14:33:43,964 - [line:125] - INFO: [290] taxId: 54326052 
+capitalAmount:1000000000
+email:service@apbioinc.com
+website:www.apbioinc.com
+phone:02-2653-2886
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:33:47,190 - [line:35] - DEBUG: ### time is random delay: 0.0 s###
+2023-03-01 14:33:48,505 - [line:125] - INFO: [291] taxId: 54362943 
+capitalAmount:3000000
+email:
+website:
+phone:02-2655-2828
+companyAddress:臺北市南港區三重路19之13號15樓
+2023-03-01 14:33:48,509 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:33:51,661 - [line:125] - INFO: [292] taxId: 54363149 
+capitalAmount:156000000
+email:
+website:
+phone:02-7722-0677
+companyAddress:臺北市南港區三重路19之13號15樓
+2023-03-01 14:33:55,565 - [line:35] - DEBUG: ### time is random delay: 2.2 s###
+2023-03-01 14:33:58,503 - [line:125] - INFO: [293] taxId: 54365575 
+capitalAmount:500000000
+email:harris.cheng@aulisa.com
+website:https://www.aulisa.com.tw/
+phone:02-2655-7297
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:34:00,707 - [line:35] - DEBUG: ### time is random delay: 4.6 s###
+2023-03-01 14:34:02,357 - [line:125] - INFO: [294] taxId: 54368209 
+capitalAmount:35000000
+email:
+website:
+phone:02-2655-2866
+companyAddress:臺北市中正區新生南路1段50號5樓之3
+2023-03-01 14:34:06,961 - [line:35] - DEBUG: ### time is random delay: 2.0 s###
+2023-03-01 14:34:08,673 - [line:125] - INFO: [295] taxId: 54640539 
+capitalAmount:50000000
+email:
+website:
+phone:02-2789-2000
+companyAddress:臺北市南港區三重路19之6號7樓
+2023-03-01 14:34:10,677 - [line:35] - DEBUG: ### time is random delay: 2.0 s###
+2023-03-01 14:34:15,662 - [line:125] - INFO: [296] taxId: 54641072 
+capitalAmount:100000000
+email:
+website:
+phone:02-2655-2828
+companyAddress:臺北市南港區三重路19之2號12樓
+2023-03-01 14:34:17,668 - [line:35] - DEBUG: ### time is random delay: 3.6 s###
+2023-03-01 14:34:22,975 - [line:125] - INFO: [297] taxId: 54653512 
+capitalAmount:3060000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號12樓
+2023-03-01 14:34:26,583 - [line:35] - DEBUG: ### time is random delay: 3.1 s###
+2023-03-01 14:34:30,562 - [line:125] - INFO: [298] taxId: 54659754 
+capitalAmount:600000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:34:33,671 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:34:35,295 - [line:125] - INFO: [299] taxId: 54663027 
+capitalAmount:100000000
+email:
+website:
+phone:02-7722-0677
+companyAddress:臺北市南港區三重路19之13號15樓
+2023-03-01 14:34:37,705 - [line:35] - DEBUG: ### time is random delay: 2.2 s###
+2023-03-01 14:34:39,445 - [line:125] - INFO: [300] taxId: 54663032 
+capitalAmount:200000000
+email:
+website:
+phone:02-7722-0677
+companyAddress:臺北市南港區三重路19之13號15樓
+2023-03-01 14:34:41,656 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:34:43,029 - [line:125] - INFO: [301] taxId: 54666586 
+capitalAmount:5000000
+email:
+website:
+phone:02-2782-1238
+companyAddress:臺北市南港區三重路19之3號6樓之1
+2023-03-01 14:34:43,836 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:34:45,519 - [line:125] - INFO: [302] taxId: 54672481 
+capitalAmount:150000000
+email:
+website:
+phone:02-2655-7557
+companyAddress:臺北市松山區敦化北路122號5樓
+2023-03-01 14:34:49,326 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:34:50,732 - [line:125] - INFO: [303] taxId: 54678838 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之1號5樓之3
+2023-03-01 14:34:54,261 - [line:35] - DEBUG: ### time is random delay: 0.3 s###
+2023-03-01 14:34:55,742 - [line:125] - INFO: [304] taxId: 54680320 
+capitalAmount:6500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號7樓之3
+2023-03-01 14:34:56,080 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:34:57,901 - [line:125] - INFO: [305] taxId: 54845673 
+capitalAmount:3000000
+email:
+website:
+phone:02-8648-5243
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:34:59,410 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:35:00,789 - [line:125] - INFO: [306] taxId: 54954524 
+capitalAmount:25000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:35:03,699 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:35:05,060 - [line:125] - INFO: [307] taxId: 55173146 
+capitalAmount:270000000
+email:
+website:
+phone:02-2789-1117
+companyAddress:臺北市南港區三重路66號7樓
+2023-03-01 14:35:07,470 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:35:08,843 - [line:125] - INFO: [308] taxId: 55226642 
+capitalAmount:26000000
+email:
+website:
+phone:02-2655-7557
+companyAddress:臺北市松山區敦化北路122號5樓
+2023-03-01 14:35:11,472 - [line:35] - DEBUG: ### time is random delay: 2.0 s###
+2023-03-01 14:35:12,876 - [line:125] - INFO: [309] taxId: 55627837 
+capitalAmount:600000000
+email:
+website:
+phone:02-2655-8957
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:35:14,882 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:35:16,223 - [line:125] - INFO: [310] taxId: 55653877 
+capitalAmount:300000000
+email:
+website:
+phone:02-2655-8899
+companyAddress:臺南市善化區大利三路5號A棟3樓
+2023-03-01 14:35:20,229 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:35:22,793 - [line:125] - INFO: [311] taxId: 55654806 
+capitalAmount:5000000
+email:
+website:
+phone:02-2708-3307
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:35:25,710 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:35:27,118 - [line:125] - INFO: [312] taxId: 55685054 
+capitalAmount:6000000
+email:
+website:
+phone:
+companyAddress:臺北市中山區復興北路62號9樓
+2023-03-01 14:35:28,737 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:35:30,137 - [line:125] - INFO: [313] taxId: 55700858 
+capitalAmount:80000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:35:31,742 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:35:34,818 - [line:125] - INFO: [314] taxId: 55728321 
+capitalAmount:4500000
+email:
+website:
+phone:02-2655-1238
+companyAddress:臺北市南港區三重路19之11號4樓
+2023-03-01 14:35:38,331 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:35:42,517 - [line:125] - INFO: [315] taxId: 55751390 
+capitalAmount:27250000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號7樓之3
+2023-03-01 14:35:46,624 - [line:35] - DEBUG: ### time is random delay: 4.4 s###
+2023-03-01 14:35:48,362 - [line:125] - INFO: [316] taxId: 55765660 
+capitalAmount:50000000
+email:
+website:
+phone:02-7747-5899
+companyAddress:臺北市南港區三重路19之2、19之3號10樓
+2023-03-01 14:35:52,782 - [line:35] - DEBUG: ### time is random delay: 0.6 s###
+2023-03-01 14:35:54,183 - [line:125] - INFO: [317] taxId: 55769194 
+capitalAmount:100000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路66號9樓
+2023-03-01 14:35:54,792 - [line:35] - DEBUG: ### time is random delay: 3.2 s###
+2023-03-01 14:35:58,349 - [line:125] - INFO: [318] taxId: 55786573 
+capitalAmount:360000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號12樓
+2023-03-01 14:36:01,561 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:36:02,914 - [line:125] - INFO: [319] taxId: 55796468 
+capitalAmount:100000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:36:07,241 - [line:35] - DEBUG: ### time is random delay: 1.8 s###
+2023-03-01 14:36:09,062 - [line:125] - INFO: [320] taxId: 66538256 
+capitalAmount:600000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之5號2樓
+2023-03-01 14:36:10,875 - [line:35] - DEBUG: ### time is random delay: 0.6 s###
+2023-03-01 14:36:13,761 - [line:125] - INFO: [321] taxId: 70366810 
+capitalAmount:2000000
+email:
+website:
+phone:02-2655-2937
+companyAddress:臺北市南港區三重路19之2號7樓
+2023-03-01 14:36:14,392 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:36:16,163 - [line:125] - INFO: [322] taxId: 70381761 
+capitalAmount:400000000
+email:
+website:
+phone:02-2655-8166
+companyAddress:臺北市南港區園區街3號12樓之3
+2023-03-01 14:36:16,571 - [line:35] - DEBUG: ### time is random delay: 2.8 s###
+2023-03-01 14:36:17,986 - [line:125] - INFO: [323] taxId: 70394956 
+capitalAmount:99000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:36:20,796 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:36:24,994 - [line:125] - INFO: [324] taxId: 70399559 
+capitalAmount:200000000
+email:
+website:
+phone:02-2655-7557
+companyAddress:臺北市南港區園區街3之2號11樓之1
+2023-03-01 14:36:27,619 - [line:35] - DEBUG: ### time is random delay: 4.8 s###
+2023-03-01 14:36:29,740 - [line:125] - INFO: [325] taxId: 70444999 
+capitalAmount:600000000
+email:financial_material@mail.omg.com.tw
+website:http://www.macrowell.com.tw/
+phone:02-2655-0051
+companyAddress:臺北市南港區三重路19之2號7樓之1
+2023-03-01 14:36:34,548 - [line:35] - DEBUG: ### time is random delay: 1.2 s###
+2023-03-01 14:36:36,519 - [line:125] - INFO: [326] taxId: 70455720 
+capitalAmount:1500000000
+email:AM-IR@alcormicro.com
+website:www.alcormicro.com
+phone:02-2653-5000
+companyAddress:臺北市南港區三重路66號9樓
+2023-03-01 14:36:37,739 - [line:35] - DEBUG: ### time is random delay: 0.5 s###
+2023-03-01 14:36:39,021 - [line:88] - ERROR: [327] 70462428 Request不到或出問題
+2023-03-01 14:36:39,223 - [line:125] - INFO: [327] taxId: 70462428 
+capitalAmount:1500000000
+email:AM-IR@alcormicro.com
+website:www.alcormicro.com
+phone:02-2653-5000
+companyAddress:臺北市南港區三重路66號9樓
+2023-03-01 14:36:39,747 - [line:35] - DEBUG: ### time is random delay: 0.6 s###
+2023-03-01 14:36:42,424 - [line:125] - INFO: [328] taxId: 70465348 
+capitalAmount:150000000
+email:
+website:
+phone:02-2789-1200
+companyAddress:臺北市南港區園區街3之2號6樓之1
+2023-03-01 14:36:43,033 - [line:35] - DEBUG: ### time is random delay: 2.0 s###
+2023-03-01 14:36:49,729 - [line:125] - INFO: [329] taxId: 70479315 
+capitalAmount:2188000000
+email:benny@ibase.com.tw
+website:www.ibase.com.tw
+phone:02-2655-7588
+companyAddress:臺北市南港區園區街3-1號11樓
+2023-03-01 14:36:51,734 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:36:53,526 - [line:125] - INFO: [330] taxId: 70481754 
+capitalAmount:300000000
+email:
+website:
+phone:02-7739-1868
+companyAddress:臺北市南港區三重路19之10號
+2023-03-01 14:36:57,835 - [line:35] - DEBUG: ### time is random delay: 4.8 s###
+2023-03-01 14:37:02,097 - [line:125] - INFO: [331] taxId: 70516563 
+capitalAmount:1000000000
+email:ir@pharmosa.com.tw
+website:http://www.pharmosa.com.tw
+phone:02-2782-7561
+companyAddress:臺北市南港區三重路66號3樓之3
+2023-03-01 14:37:06,904 - [line:35] - DEBUG: ### time is random delay: 1.3 s###
+2023-03-01 14:37:08,601 - [line:125] - INFO: [332] taxId: 70547123 
+capitalAmount:50000000
+email:
+website:
+phone:02-2789-3393
+companyAddress:臺北市南港區三重路66號4樓
+2023-03-01 14:37:09,906 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:37:11,962 - [line:125] - INFO: [333] taxId: 70555349 
+capitalAmount:6000000000
+email:micro@microbio.com.tw
+website:http://twmicrobio.com/
+phone:02-2655-8558
+companyAddress:臺北市南港區三重里園區街3號14樓之1
+2023-03-01 14:37:16,678 - [line:35] - DEBUG: ### time is random delay: 2.1 s###
+2023-03-01 14:37:18,546 - [line:125] - INFO: [334] taxId: 70557655 
+capitalAmount:4000000000
+email:ir@pharmaessentia.com
+website:http://www.PharmaEssentia.com
+phone:02-2655-7688
+companyAddress:臺北市南港區園區街3號13樓
+2023-03-01 14:37:20,653 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:37:23,863 - [line:125] - INFO: [335] taxId: 70562910 
+capitalAmount:120000000
+email:
+website:
+phone:02-5550-5888
+companyAddress:臺北市南港區三重路19之2號9樓
+2023-03-01 14:37:25,296 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:37:26,709 - [line:125] - INFO: [336] taxId: 70572874 
+capitalAmount:164920000
+email:
+website:
+phone:02-2788-0989
+companyAddress:臺北市南港區園區街3號9樓
+2023-03-01 14:37:27,151 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:37:28,890 - [line:125] - INFO: [337] taxId: 70599043 
+capitalAmount:29000000
+email:
+website:
+phone:02-2655-1299
+companyAddress:臺北市南港區三重路19號2樓
+2023-03-01 14:37:30,421 - [line:35] - DEBUG: ### time is random delay: 2.0 s###
+2023-03-01 14:37:34,501 - [line:125] - INFO: [338] taxId: 70760897 
+capitalAmount:2500000000
+email:info@medigen.com.tw
+website:http://www.medigen.com.tw
+phone:02-2653-5200
+companyAddress:臺北市南港區園區街3號14樓
+2023-03-01 14:37:36,511 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:37:38,778 - [line:125] - INFO: [339] taxId: 70765909 
+capitalAmount:1000000000
+email:service@easycard.com.tw
+website:https://www.easycard.com.tw
+phone:02-2652-9988
+companyAddress:臺北市南港區園區街3之1號13樓
+2023-03-01 14:37:41,389 - [line:35] - DEBUG: ### time is random delay: 2.3 s###
+2023-03-01 14:37:43,647 - [line:125] - INFO: [340] taxId: 70811495 
+capitalAmount:1129000000
+email:
+website:
+phone:02-2655-3551
+companyAddress:臺北市南港區三重路19之13號11樓
+2023-03-01 14:37:45,974 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:37:49,850 - [line:125] - INFO: [341] taxId: 70837262 
+capitalAmount:11196080
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號6樓之3
+2023-03-01 14:37:51,378 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:37:54,352 - [line:125] - INFO: [342] taxId: 70840203 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號6樓之3
+2023-03-01 14:37:57,058 - [line:35] - DEBUG: ### time is random delay: 4.5 s###
+2023-03-01 14:37:58,920 - [line:88] - ERROR: [343] 70842856 Request不到或出問題
+2023-03-01 14:37:58,992 - [line:125] - INFO: [343] taxId: 70842856 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號6樓之3
+2023-03-01 14:38:03,521 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:38:05,583 - [line:125] - INFO: [344] taxId: 70843709 
+capitalAmount:50000000
+email:
+website:
+phone:02-2789-2000
+companyAddress:臺北市南港區三重路19之6號7樓
+2023-03-01 14:38:06,390 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:38:08,200 - [line:125] - INFO: [345] taxId: 79988938 
+capitalAmount:200000000
+email:sales@freedom.net.tw
+website:www.freedom.net.tw
+phone:02-2655-0668
+companyAddress:臺北市南港區園區街3之2號4樓之1
+2023-03-01 14:38:10,606 - [line:35] - DEBUG: ### time is random delay: 4.5 s###
+2023-03-01 14:38:12,719 - [line:125] - INFO: [346] taxId: 80007820 
+capitalAmount:500000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之6號7樓
+2023-03-01 14:38:17,251 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:38:20,720 - [line:125] - INFO: [347] taxId: 80147435 
+capitalAmount:28000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之1號8樓
+2023-03-01 14:38:22,231 - [line:35] - DEBUG: ### time is random delay: 1.1 s###
+2023-03-01 14:38:24,541 - [line:125] - INFO: [348] taxId: 80158381 
+capitalAmount:15000000
+email:
+website:
+phone:02-5559-0277
+companyAddress:臺北市南港區園區街3之1號6樓之3
+2023-03-01 14:38:25,648 - [line:35] - DEBUG: ### time is random delay: 4.8 s###
+2023-03-01 14:38:28,812 - [line:125] - INFO: [349] taxId: 80158777 
+capitalAmount:300000000
+email:80158777@welgene.com.tw
+website:http：//www.welgene.com.tw
+phone:02-6616-0001
+companyAddress:臺北市南港區園區街3號12樓
+2023-03-01 14:38:33,622 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:38:35,170 - [line:125] - INFO: [350] taxId: 80267326 
+capitalAmount:4000000
+email:
+website:
+phone:02-2655-7676
+companyAddress:臺北市南港區三重路66號7樓
+2023-03-01 14:38:35,278 - [line:35] - DEBUG: ### time is random delay: 3.6 s###
+2023-03-01 14:38:36,643 - [line:125] - INFO: [351] taxId: 80286956 
+capitalAmount:81400000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號10樓之2
+2023-03-01 14:38:40,265 - [line:35] - DEBUG: ### time is random delay: 2.2 s###
+2023-03-01 14:38:45,929 - [line:125] - INFO: [352] taxId: 80295836 
+capitalAmount:26000000
+email:
+website:
+phone:02-2771-9901
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:38:48,147 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:38:50,031 - [line:125] - INFO: [353] taxId: 80519435 
+capitalAmount:95000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之8號1樓
+2023-03-01 14:38:52,638 - [line:35] - DEBUG: ### time is random delay: 0.5 s###
+2023-03-01 14:38:54,443 - [line:125] - INFO: [354] taxId: 80524351 
+capitalAmount:200000000
+email:
+website:
+phone:02-2655-7555
+companyAddress:臺北市南港區園區街3號12樓
+2023-03-01 14:38:54,950 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:38:56,719 - [line:125] - INFO: [355] taxId: 80536188 
+capitalAmount:1520000
+email:
+website:
+phone:02-2655-1200
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:39:00,828 - [line:35] - DEBUG: ### time is random delay: 2.2 s###
+2023-03-01 14:39:03,329 - [line:125] - INFO: [356] taxId: 80539431 
+capitalAmount:500000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:39:05,536 - [line:35] - DEBUG: ### time is random delay: 3.0 s###
+2023-03-01 14:39:06,763 - [line:88] - ERROR: [357] 80661122 Request不到或出問題
+2023-03-01 14:39:06,871 - [line:125] - INFO: [357] taxId: 80661122 
+capitalAmount:500000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:39:09,880 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:39:11,578 - [line:125] - INFO: [358] taxId: 80674436 
+capitalAmount:150000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之5號2樓
+2023-03-01 14:39:15,883 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:39:17,184 - [line:125] - INFO: [359] taxId: 80684119 
+capitalAmount:1000000
+email:
+website:
+phone:02-2655-0038
+companyAddress:臺北市南港區三重路19之3號6樓之1
+2023-03-01 14:39:19,594 - [line:35] - DEBUG: ### time is random delay: 2.8 s###
+2023-03-01 14:39:22,061 - [line:125] - INFO: [360] taxId: 80684440 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之9號5樓
+2023-03-01 14:39:24,866 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:39:27,540 - [line:125] - INFO: [361] taxId: 80689917 
+capitalAmount:150000000
+email:
+website:
+phone:02-2655-7997
+companyAddress:臺北市南港區園區街3號11樓之3
+2023-03-01 14:39:31,344 - [line:35] - DEBUG: ### time is random delay: 2.5 s###
+2023-03-01 14:39:32,675 - [line:125] - INFO: [362] taxId: 80690674 
+capitalAmount:20000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號6樓之2
+2023-03-01 14:39:35,179 - [line:35] - DEBUG: ### time is random delay: 4.8 s###
+2023-03-01 14:39:36,775 - [line:125] - INFO: [363] taxId: 82797053 
+capitalAmount:38000000
+email:
+website:
+phone:02-2760-6670
+companyAddress:臺北市南港區園區街3號10樓之2
+2023-03-01 14:39:41,580 - [line:35] - DEBUG: ### time is random delay: 0.7 s###
+2023-03-01 14:39:45,362 - [line:125] - INFO: [364] taxId: 82803323 
+capitalAmount:20000000
+email:
+website:
+phone:02-7723-6888#802
+companyAddress:臺北市南港區園區街3號3樓之3
+2023-03-01 14:39:46,066 - [line:35] - DEBUG: ### time is random delay: 1.0 s###
+2023-03-01 14:39:47,332 - [line:125] - INFO: [365] taxId: 82815968 
+capitalAmount:50000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:39:48,336 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:39:49,684 - [line:125] - INFO: [366] taxId: 82862997 
+capitalAmount:3500000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號7樓
+2023-03-01 14:39:53,988 - [line:35] - DEBUG: ### time is random delay: 0.6 s###
+2023-03-01 14:39:55,679 - [line:125] - INFO: [367] taxId: 82871877 
+capitalAmount:
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號4樓
+2023-03-01 14:39:56,283 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:39:58,023 - [line:125] - INFO: [368] taxId: 82876681 
+capitalAmount:30000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:39:58,227 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:40:02,609 - [line:125] - INFO: [369] taxId: 82880165 
+capitalAmount:
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:40:06,612 - [line:35] - DEBUG: ### time is random delay: 1.3 s###
+2023-03-01 14:40:07,996 - [line:125] - INFO: [370] taxId: 82909276 
+capitalAmount:8000000
+email:
+website:
+phone:02-8512-4006
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:40:09,301 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:40:11,739 - [line:125] - INFO: [371] taxId: 82910800 
+capitalAmount:100000000
+email:
+website:
+phone:02-2655-3866
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:40:16,467 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:40:18,596 - [line:125] - INFO: [372] taxId: 82942303 
+capitalAmount:10000000
+email:
+website:
+phone:02-2788-2408#812
+companyAddress:臺北市南港區三重路66號7樓之6
+2023-03-01 14:40:23,302 - [line:35] - DEBUG: ### time is random delay: 1.5 s###
+2023-03-01 14:40:25,559 - [line:125] - INFO: [373] taxId: 82953342 
+capitalAmount:100000
+email:
+website:
+phone:02-7723-6888#809
+companyAddress:臺北市南港區園區街3號3樓之3
+2023-03-01 14:40:27,066 - [line:35] - DEBUG: ### time is random delay: 4.6 s###
+2023-03-01 14:40:31,781 - [line:125] - INFO: [374] taxId: 82959351 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:40:36,389 - [line:35] - DEBUG: ### time is random delay: 2.8 s###
+2023-03-01 14:40:39,490 - [line:125] - INFO: [375] taxId: 82959373 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:40:42,297 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:40:46,368 - [line:125] - INFO: [376] taxId: 83051573 
+capitalAmount:10000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:40:48,275 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:40:51,387 - [line:125] - INFO: [377] taxId: 83055037 
+capitalAmount:1500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19號2樓
+2023-03-01 14:40:56,091 - [line:35] - DEBUG: ### time is random delay: 4.9 s###
+2023-03-01 14:40:57,482 - [line:125] - INFO: [378] taxId: 83074463 
+capitalAmount:80000000
+email:
+website:
+phone:02-7751-8087
+companyAddress:臺北市士林區華齡街185巷14號13樓
+2023-03-01 14:41:02,412 - [line:35] - DEBUG: ### time is random delay: 0.3 s###
+2023-03-01 14:41:07,106 - [line:125] - INFO: [379] taxId: 83107020 
+capitalAmount:3000000
+email:
+website:
+phone:02-2793-8709
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:41:07,414 - [line:35] - DEBUG: ### time is random delay: 2.1 s###
+2023-03-01 14:41:08,796 - [line:125] - INFO: [380] taxId: 83119047 
+capitalAmount:100000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號4樓
+2023-03-01 14:41:10,902 - [line:35] - DEBUG: ### time is random delay: 4.2 s###
+2023-03-01 14:41:13,375 - [line:125] - INFO: [381] taxId: 83122991 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:41:17,580 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:41:20,945 - [line:125] - INFO: [382] taxId: 83138403 
+capitalAmount:30000000
+email:
+website:
+phone:02-6605-0660
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:41:22,851 - [line:35] - DEBUG: ### time is random delay: 3.3 s###
+2023-03-01 14:41:26,691 - [line:125] - INFO: [383] taxId: 83138749 
+capitalAmount:10000000
+email:
+website:
+phone:02-2655-3866
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:41:30,016 - [line:35] - DEBUG: ### time is random delay: 3.6 s###
+2023-03-01 14:41:42,748 - [line:125] - INFO: [384] taxId: 83168068 
+capitalAmount:29000000
+email:
+website:
+phone:02-2697-3638
+companyAddress:臺北市南港區園區街3號10樓之6
+2023-03-01 14:41:46,358 - [line:35] - DEBUG: ### time is random delay: 3.4 s###
+2023-03-01 14:41:49,720 - [line:125] - INFO: [385] taxId: 83170711 
+capitalAmount:24200000
+email:
+website:
+phone:
+companyAddress:臺北市內湖區瑞光路235巷15號1樓
+2023-03-01 14:41:53,125 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:41:56,922 - [line:125] - INFO: [386] taxId: 83171747 
+capitalAmount:10000000
+email:
+website:
+phone:02-2655-0408
+companyAddress:臺北市南港區三重路19之6號10樓
+2023-03-01 14:41:57,129 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:41:59,162 - [line:125] - INFO: [387] taxId: 83175624 
+capitalAmount:2700000
+email:
+website:
+phone:02-2655-0550
+companyAddress:臺北市南港區三重路19之13號3樓333室
+2023-03-01 14:42:01,569 - [line:35] - DEBUG: ### time is random delay: 1.1 s###
+2023-03-01 14:42:03,765 - [line:125] - INFO: [388] taxId: 83200362 
+capitalAmount:
+email:
+website:
+phone:02-2655-7377
+companyAddress:臺北市南港區園區街3號11樓之1
+2023-03-01 14:42:04,896 - [line:35] - DEBUG: ### time is random delay: 3.4 s###
+2023-03-01 14:42:09,505 - [line:125] - INFO: [389] taxId: 83200519 
+capitalAmount:6000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之1號4樓
+2023-03-01 14:42:12,936 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:42:14,248 - [line:125] - INFO: [390] taxId: 83201073 
+capitalAmount:61041000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號13樓之1
+2023-03-01 14:42:17,959 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:42:21,459 - [line:125] - INFO: [391] taxId: 83211918 
+capitalAmount:
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:42:22,877 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:42:24,309 - [line:125] - INFO: [392] taxId: 83212331 
+capitalAmount:165500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號13樓
+2023-03-01 14:42:28,120 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:42:29,473 - [line:125] - INFO: [393] taxId: 83238917 
+capitalAmount:61041000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號13樓之1
+2023-03-01 14:42:33,780 - [line:35] - DEBUG: ### time is random delay: 4.5 s###
+2023-03-01 14:42:35,119 - [line:125] - INFO: [394] taxId: 83243236 
+capitalAmount:203500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號6樓之2
+2023-03-01 14:42:39,625 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:42:41,076 - [line:125] - INFO: [395] taxId: 83243974 
+capitalAmount:1000000
+email:
+website:
+phone:02-2655-8898
+companyAddress:臺北市南港區園區街3之2號10樓之2
+2023-03-01 14:42:42,483 - [line:35] - DEBUG: ### time is random delay: 3.2 s###
+2023-03-01 14:42:47,126 - [line:125] - INFO: [396] taxId: 83245240 
+capitalAmount:2000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:42:50,355 - [line:35] - DEBUG: ### time is random delay: 3.4 s###
+2023-03-01 14:42:51,854 - [line:125] - INFO: [397] taxId: 83257765 
+capitalAmount:550000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:42:55,284 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:42:58,500 - [line:125] - INFO: [398] taxId: 83349890 
+capitalAmount:
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:43:02,209 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:43:03,663 - [line:125] - INFO: [399] taxId: 83424124 
+capitalAmount:80000000
+email:
+website:
+phone:02-6616-0008
+companyAddress:臺北市南港區園區街3號12樓之5
+2023-03-01 14:43:04,487 - [line:35] - DEBUG: ### time is random delay: 1.3 s###
+2023-03-01 14:43:06,532 - [line:125] - INFO: [400] taxId: 83470105 
+capitalAmount:100000000
+email:
+website:
+phone:02-2785-6892
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:43:07,860 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:43:11,965 - [line:125] - INFO: [401] taxId: 83502269 
+capitalAmount:3000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:43:16,086 - [line:35] - DEBUG: ### time is random delay: 0.9 s###
+2023-03-01 14:43:19,307 - [line:125] - INFO: [402] taxId: 83502330 
+capitalAmount:10000000
+email:
+website:
+phone:02-2388-9075
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:43:20,231 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:43:21,578 - [line:125] - INFO: [403] taxId: 83505744 
+capitalAmount:100000000
+email:
+website:
+phone:02-2655-7557
+companyAddress:臺北市南港區園區街3之2號11樓
+2023-03-01 14:43:25,099 - [line:35] - DEBUG: ### time is random delay: 0.7 s###
+2023-03-01 14:43:29,205 - [line:125] - INFO: [404] taxId: 83506119 
+capitalAmount:10000000
+email:
+website:
+phone:02-2655-0668
+companyAddress:臺北市南港區園區街3之1號6樓之2
+2023-03-01 14:43:29,912 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:43:32,502 - [line:125] - INFO: [405] taxId: 83522722 
+capitalAmount:1000000
+email:
+website:
+phone:02-7722-1898
+companyAddress:臺北市南港區三重路19之3號7樓之3
+2023-03-01 14:43:34,409 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:43:35,844 - [line:125] - INFO: [406] taxId: 83536253 
+capitalAmount:200000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:43:39,751 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:43:41,547 - [line:125] - INFO: [407] taxId: 83550418 
+capitalAmount:15500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:43:45,854 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:43:47,264 - [line:125] - INFO: [408] taxId: 83561652 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19-2號7樓之1
+2023-03-01 14:43:50,971 - [line:35] - DEBUG: ### time is random delay: 2.5 s###
+2023-03-01 14:43:52,380 - [line:125] - INFO: [409] taxId: 83592347 
+capitalAmount:100000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號3樓之3
+2023-03-01 14:43:54,891 - [line:35] - DEBUG: ### time is random delay: 4.6 s###
+2023-03-01 14:43:56,321 - [line:125] - INFO: [410] taxId: 83623756 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號7樓
+2023-03-01 14:44:00,953 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:44:02,428 - [line:125] - INFO: [411] taxId: 83623881 
+capitalAmount:250000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號11樓
+2023-03-01 14:44:03,262 - [line:35] - DEBUG: ### time is random delay: 1.9 s###
+2023-03-01 14:44:07,037 - [line:125] - INFO: [412] taxId: 83692839 
+capitalAmount:12000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號11樓之3
+2023-03-01 14:44:08,943 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:44:12,326 - [line:125] - INFO: [413] taxId: 83699220 
+capitalAmount:2000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:44:16,333 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:44:18,877 - [line:125] - INFO: [414] taxId: 83709682 
+capitalAmount:60000000
+email:
+website:
+phone:02-2655-7557
+companyAddress:臺北市松山區敦化北路122號5樓
+2023-03-01 14:44:23,606 - [line:35] - DEBUG: ### time is random delay: 4.8 s###
+2023-03-01 14:44:24,997 - [line:125] - INFO: [415] taxId: 83710920 
+capitalAmount:10000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號5樓
+2023-03-01 14:44:29,822 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:44:31,154 - [line:125] - INFO: [416] taxId: 83715501 
+capitalAmount:30000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號7樓之1
+2023-03-01 14:44:31,361 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:44:37,823 - [line:125] - INFO: [417] taxId: 83724115 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號10樓
+2023-03-01 14:44:39,244 - [line:35] - DEBUG: ### time is random delay: 2.0 s###
+2023-03-01 14:44:41,303 - [line:125] - INFO: [418] taxId: 83747659 
+capitalAmount:10000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:44:43,310 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:44:44,635 - [line:125] - INFO: [419] taxId: 83764777 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:44:48,743 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:44:50,105 - [line:125] - INFO: [420] taxId: 83783649 
+capitalAmount:1000000
+email:
+website:
+phone:02-2981-5119
+companyAddress:臺北市南港區三重路19之6號7摟
+2023-03-01 14:44:50,315 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:44:51,734 - [line:125] - INFO: [421] taxId: 83798621 
+capitalAmount:5000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:44:55,741 - [line:35] - DEBUG: ### time is random delay: 4.5 s###
+2023-03-01 14:44:59,619 - [line:125] - INFO: [422] taxId: 83799092 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:45:04,131 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:45:05,375 - [line:88] - ERROR: [423] 83950688 Request不到或出問題
+2023-03-01 14:45:05,456 - [line:125] - INFO: [423] taxId: 83950688 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:45:08,163 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:45:09,413 - [line:88] - ERROR: [424] 84244846 Request不到或出問題
+2023-03-01 14:45:09,478 - [line:125] - INFO: [424] taxId: 84244846 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號7樓
+2023-03-01 14:45:13,804 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:45:15,144 - [line:125] - INFO: [425] taxId: 84273216 
+capitalAmount:20000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號7樓之1
+2023-03-01 14:45:15,350 - [line:35] - DEBUG: ### time is random delay: 0.3 s###
+2023-03-01 14:45:17,016 - [line:125] - INFO: [426] taxId: 84275158 
+capitalAmount:250000000
+email:
+website:
+phone:0922-6557-577
+companyAddress:臺北市南港區園區街3號4樓之2
+2023-03-01 14:45:17,335 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:45:19,077 - [line:125] - INFO: [427] taxId: 84285043 
+capitalAmount:175110000
+email:
+website:
+phone:02-2655-8811
+companyAddress:臺北市南港區園區街3號10樓之7
+2023-03-01 14:45:23,122 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:45:25,131 - [line:125] - INFO: [428] taxId: 84293851 
+capitalAmount:300000000
+email:
+website:
+phone:02-2655-2211
+companyAddress:臺北市南港區三重路19之2號11樓
+2023-03-01 14:45:27,765 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:45:32,388 - [line:125] - INFO: [429] taxId: 84298005 
+capitalAmount:20000000
+email:
+website:
+phone:02-2655-1228
+companyAddress:臺北市南港區三重路19之2號6樓之1
+2023-03-01 14:45:36,293 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:45:38,393 - [line:125] - INFO: [430] taxId: 84759338 
+capitalAmount:150000000
+email:
+website:
+phone:02-2653-2688#251
+companyAddress:臺北市南港區三重路66號4樓
+2023-03-01 14:45:40,800 - [line:35] - DEBUG: ### time is random delay: 3.4 s###
+2023-03-01 14:45:44,190 - [line:125] - INFO: [431] taxId: 84900878 
+capitalAmount:2600000000
+email:Selina_Chiu@yctc.com.tw
+website:https://cht.yctc.com.tw
+phone:02-2655-1166
+companyAddress:臺北市南港區三重路19-13號7樓
+2023-03-01 14:45:47,611 - [line:35] - DEBUG: ### time is random delay: 0.7 s###
+2023-03-01 14:45:51,477 - [line:125] - INFO: [432] taxId: 84906514 
+capitalAmount:14000000
+email:
+website:
+phone:02-2655-7678
+companyAddress:臺北市南港區園區街3號12樓之6
+2023-03-01 14:45:52,184 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:45:58,914 - [line:125] - INFO: [433] taxId: 84917287 
+capitalAmount:100000000
+email:
+website:
+phone:02-2655-8856
+companyAddress:臺北市南港區園區街3號9樓
+2023-03-01 14:46:01,337 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:46:04,204 - [line:125] - INFO: [434] taxId: 84919659 
+capitalAmount:300000000
+email:
+website:
+phone:02-2655-2828
+companyAddress:臺北市南港區三重路19之2號12樓
+2023-03-01 14:46:07,914 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:46:13,424 - [line:125] - INFO: [435] taxId: 84926791 
+capitalAmount:2000000000
+email:jay.liu2@eyecenter.com.tw
+website:www.uvb.com.tw/
+phone:02-2655-8000
+companyAddress:臺北市南港區三重里園區街3之1號4樓
+2023-03-01 14:46:17,430 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:46:18,772 - [line:125] - INFO: [436] taxId: 85001655 
+capitalAmount:50000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:46:21,494 - [line:35] - DEBUG: ### time is random delay: 1.3 s###
+2023-03-01 14:46:24,165 - [line:125] - INFO: [437] taxId: 85017116 
+capitalAmount:5000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:46:25,472 - [line:35] - DEBUG: ### time is random delay: 0.8 s###
+2023-03-01 14:46:26,999 - [line:125] - INFO: [438] taxId: 85017827 
+capitalAmount:400000000
+email:
+website:
+phone:02-2694-6069
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:46:27,807 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:46:29,634 - [line:125] - INFO: [439] taxId: 85023118 
+capitalAmount:3000000
+email:
+website:
+phone:02-2655-3118
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:46:30,043 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:46:33,182 - [line:88] - ERROR: [440] 85030271 Request不到或出問題
+2023-03-01 14:46:33,278 - [line:125] - INFO: [440] taxId: 85030271 
+capitalAmount:3000000
+email:
+website:
+phone:02-2655-3118
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:46:37,005 - [line:35] - DEBUG: ### time is random delay: 2.0 s###
+2023-03-01 14:46:40,841 - [line:125] - INFO: [441] taxId: 85063602 
+capitalAmount:200000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號7樓之2
+2023-03-01 14:46:42,854 - [line:35] - DEBUG: ### time is random delay: 1.7 s###
+2023-03-01 14:46:45,838 - [line:125] - INFO: [442] taxId: 85089531 
+capitalAmount:30000000
+email:
+website:
+phone:02-7708-3855
+companyAddress:臺北市南港區三重路19之13號4樓
+2023-03-01 14:46:47,545 - [line:35] - DEBUG: ### time is random delay: 3.6 s###
+2023-03-01 14:46:49,323 - [line:125] - INFO: [443] taxId: 85110020 
+capitalAmount:30000000
+email:
+website:
+phone:02-2655-2625
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:46:52,931 - [line:35] - DEBUG: ### time is random delay: 2.8 s###
+2023-03-01 14:46:57,941 - [line:125] - INFO: [444] taxId: 85110339 
+capitalAmount:15000000
+email:
+website:
+phone:02-2655-8899
+companyAddress:臺北市南港區園區街3之2號10樓之2
+2023-03-01 14:47:00,759 - [line:35] - DEBUG: ### time is random delay: 4.2 s###
+2023-03-01 14:47:05,432 - [line:125] - INFO: [445] taxId: 85117044 
+capitalAmount:100000000
+email:
+website:
+phone:02-2789-1060#318
+companyAddress:臺北市南港區三重路66號7樓之5
+2023-03-01 14:47:09,638 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:47:10,996 - [line:125] - INFO: [446] taxId: 85132208 
+capitalAmount:770000
+email:
+website:
+phone:02-2665-3669
+companyAddress:臺北市南港區三重路19之11號5樓
+2023-03-01 14:47:15,305 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:47:20,003 - [line:125] - INFO: [447] taxId: 85132381 
+capitalAmount:4200000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19-11號3樓
+2023-03-01 14:47:23,710 - [line:35] - DEBUG: ### time is random delay: 3.4 s###
+2023-03-01 14:47:31,657 - [line:125] - INFO: [448] taxId: 86142507 
+capitalAmount:5000000
+email:
+website:
+phone:02-2927-1990
+companyAddress:臺北市南港區園區街3號16樓之5
+2023-03-01 14:47:35,066 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:47:38,297 - [line:125] - INFO: [449] taxId: 86159865 
+capitalAmount:320000000
+email:
+website:
+phone:02-2655-7877
+companyAddress:臺北市南港區園區街3之1號9樓
+2023-03-01 14:47:38,507 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:47:40,229 - [line:125] - INFO: [450] taxId: 86386242 
+capitalAmount:18000000
+email:
+website:
+phone:02-2655-1989
+companyAddress:臺北市南港區三重路19之6號10樓
+2023-03-01 14:47:44,334 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:47:46,078 - [line:125] - INFO: [451] taxId: 86386290 
+capitalAmount:105000000
+email:
+website:
+phone:02-7743-7889
+companyAddress:臺北市南港區三重路19之13號8樓
+2023-03-01 14:47:46,283 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:47:48,089 - [line:125] - INFO: [452] taxId: 86386334 
+capitalAmount:150000000
+email:
+website:
+phone:02-2655-1333
+companyAddress:臺北市南港區三重路19之8號2樓
+2023-03-01 14:47:50,796 - [line:35] - DEBUG: ### time is random delay: 2.5 s###
+2023-03-01 14:47:55,708 - [line:125] - INFO: [453] taxId: 86386622 
+capitalAmount:3800000000
+email:verna_hsu@mail.centurydev.com.tw
+website:http://www.centurydev.com.tw
+phone:02-2653-2688
+companyAddress:臺北市南港區三重路66號4樓
+2023-03-01 14:47:58,217 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:48:00,462 - [line:125] - INFO: [454] taxId: 86490195 
+capitalAmount:200000000
+email:
+website:
+phone:02-2655-8298
+companyAddress:臺北市南港區園區街3號16樓之5
+2023-03-01 14:48:04,582 - [line:35] - DEBUG: ### time is random delay: 4.9 s###
+2023-03-01 14:48:07,839 - [line:125] - INFO: [455] taxId: 86690573 
+capitalAmount:5000000000
+email:ir@sercomm.com
+website:www.sercomm.com
+phone:02-2655-3988
+companyAddress:臺北市南港區三重里園區街3-1號8樓
+2023-03-01 14:48:12,765 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:48:14,147 - [line:125] - INFO: [456] taxId: 89155316 
+capitalAmount:100000
+email:
+website:
+phone:02-8751-5503
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:48:14,554 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:48:16,532 - [line:125] - INFO: [457] taxId: 89158186 
+capitalAmount:550000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:48:19,258 - [line:35] - DEBUG: ### time is random delay: 1.3 s###
+2023-03-01 14:48:20,550 - [line:125] - INFO: [458] taxId: 89183191 
+capitalAmount:500000
+email:
+website:
+phone:02-2249-0088#8744
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:48:21,858 - [line:35] - DEBUG: ### time is random delay: 2.1 s###
+2023-03-01 14:48:23,218 - [line:125] - INFO: [459] taxId: 89405911 
+capitalAmount:2816428650
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號5樓
+2023-03-01 14:48:25,325 - [line:35] - DEBUG: ### time is random delay: 3.5 s###
+2023-03-01 14:48:28,743 - [line:125] - INFO: [460] taxId: 89456410 
+capitalAmount:189900000
+email:
+website:
+phone:02-2655-8198
+companyAddress:臺北市南港區園區街3號13樓
+2023-03-01 14:48:32,250 - [line:35] - DEBUG: ### time is random delay: 2.1 s###
+2023-03-01 14:48:35,390 - [line:125] - INFO: [461] taxId: 89467845 
+capitalAmount:5000000
+email:
+website:
+phone:02-2788-5362
+companyAddress:臺北市南港區三重路19號3樓
+2023-03-01 14:48:37,497 - [line:35] - DEBUG: ### time is random delay: 2.7 s###
+2023-03-01 14:48:38,920 - [line:125] - INFO: [462] taxId: 89611813 
+capitalAmount:175200000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之9號6樓
+2023-03-01 14:48:41,630 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:48:45,130 - [line:125] - INFO: [463] taxId: 89632296 
+capitalAmount:5000000
+email:
+website:
+phone:02-2655-8899
+companyAddress:臺北市南港區園區街3之2號6樓之3
+2023-03-01 14:48:48,959 - [line:35] - DEBUG: ### time is random delay: 2.8 s###
+2023-03-01 14:48:50,966 - [line:125] - INFO: [464] taxId: 90014167 
+capitalAmount:15000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:48:53,774 - [line:35] - DEBUG: ### time is random delay: 4.4 s###
+2023-03-01 14:49:34,766 - [line:88] - ERROR: [465] 90049412 Request不到或出問題
+2023-03-01 14:49:34,859 - [line:125] - INFO: [465] taxId: 90049412 
+capitalAmount:15000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:49:39,282 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:49:40,688 - [line:125] - INFO: [466] taxId: 90049829 
+capitalAmount:1000000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:49:40,892 - [line:35] - DEBUG: ### time is random delay: 1.8 s###
+2023-03-01 14:49:42,311 - [line:125] - INFO: [467] taxId: 90100389 
+capitalAmount:200000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:49:44,119 - [line:35] - DEBUG: ### time is random delay: 0.3 s###
+2023-03-01 14:49:45,506 - [line:125] - INFO: [468] taxId: 90100851 
+capitalAmount:50000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號9樓
+2023-03-01 14:49:45,813 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:49:47,796 - [line:125] - INFO: [469] taxId: 90116045 
+capitalAmount:10000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號4樓
+2023-03-01 14:49:51,704 - [line:35] - DEBUG: ### time is random delay: 0.0 s###
+2023-03-01 14:49:53,080 - [line:125] - INFO: [470] taxId: 90138651 
+capitalAmount:300000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號3摟之3
+2023-03-01 14:49:53,085 - [line:35] - DEBUG: ### time is random delay: 0.9 s###
+2023-03-01 14:49:57,830 - [line:125] - INFO: [471] taxId: 90146532 
+capitalAmount:1568000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之1號6樓之2
+2023-03-01 14:49:58,736 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:50:03,694 - [line:125] - INFO: [472] taxId: 90156165 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:50:05,299 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:50:08,819 - [line:125] - INFO: [473] taxId: 90183894 
+capitalAmount:29000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:50:12,924 - [line:35] - DEBUG: ### time is random delay: 2.4 s###
+2023-03-01 14:50:17,934 - [line:125] - INFO: [474] taxId: 90190353 
+capitalAmount:60000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:50:20,350 - [line:35] - DEBUG: ### time is random delay: 0.7 s###
+2023-03-01 14:50:21,700 - [line:125] - INFO: [475] taxId: 90221588 
+capitalAmount:100000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號5樓
+2023-03-01 14:50:22,405 - [line:35] - DEBUG: ### time is random delay: 4.2 s###
+2023-03-01 14:50:23,854 - [line:125] - INFO: [476] taxId: 90244301 
+capitalAmount:100000000
+email:
+website:
+phone:02-7722-0677
+companyAddress:臺北市南港區三重路19之13號15樓
+2023-03-01 14:50:28,085 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:50:29,440 - [line:125] - INFO: [477] taxId: 90255088 
+capitalAmount:10000000
+email:
+website:
+phone:02-2789-2000
+companyAddress:臺北市南港區三重路19之2號6樓
+2023-03-01 14:50:29,546 - [line:35] - DEBUG: ### time is random delay: 3.7 s###
+2023-03-01 14:50:31,559 - [line:125] - INFO: [478] taxId: 90269225 
+capitalAmount:
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之6號7樓
+2023-03-01 14:50:35,266 - [line:35] - DEBUG: ### time is random delay: 4.3 s###
+2023-03-01 14:50:36,708 - [line:125] - INFO: [479] taxId: 90277766 
+capitalAmount:5000000
+email:
+website:
+phone:02-2655-0708
+companyAddress:臺北市南港區三重路19之11號4樓
+2023-03-01 14:50:41,041 - [line:35] - DEBUG: ### time is random delay: 4.0 s###
+2023-03-01 14:50:42,505 - [line:125] - INFO: [480] taxId: 90286511 
+capitalAmount:30000000
+email:
+website:
+phone:02-2655-8000
+companyAddress:臺北市南港區園區街3之1號4樓
+2023-03-01 14:50:46,510 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:50:48,003 - [line:125] - INFO: [481] taxId: 90286821 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:50:51,810 - [line:35] - DEBUG: ### time is random delay: 4.8 s###
+2023-03-01 14:50:53,215 - [line:125] - INFO: [482] taxId: 90329217 
+capitalAmount:10000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區研究院路1段130巷99號A棟6樓
+2023-03-01 14:50:58,023 - [line:35] - DEBUG: ### time is random delay: 1.0 s###
+2023-03-01 14:50:59,517 - [line:125] - INFO: [483] taxId: 90348951 
+capitalAmount:10000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:51:00,542 - [line:35] - DEBUG: ### time is random delay: 3.4 s###
+2023-03-01 14:51:06,198 - [line:125] - INFO: [484] taxId: 90365825 
+capitalAmount:300000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之9號5樓
+2023-03-01 14:51:09,605 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:51:10,908 - [line:125] - INFO: [485] taxId: 90366423 
+capitalAmount:6000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之1號4樓
+2023-03-01 14:51:13,833 - [line:35] - DEBUG: ### time is random delay: 2.5 s###
+2023-03-01 14:51:17,375 - [line:125] - INFO: [486] taxId: 90388432 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:51:19,904 - [line:35] - DEBUG: ### time is random delay: 2.3 s###
+2023-03-01 14:51:23,733 - [line:125] - INFO: [487] taxId: 90390937 
+capitalAmount:10000000
+email:
+website:
+phone:02-2655-3658
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:51:26,066 - [line:35] - DEBUG: ### time is random delay: 3.2 s###
+2023-03-01 14:51:29,431 - [line:125] - INFO: [488] taxId: 90467267 
+capitalAmount:7000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號6樓之2
+2023-03-01 14:51:32,640 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:51:34,672 - [line:125] - INFO: [489] taxId: 90475246 
+capitalAmount:100000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號11樓之1
+2023-03-01 14:51:35,080 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:51:40,772 - [line:125] - INFO: [490] taxId: 90493286 
+capitalAmount:100000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號14樓之7
+2023-03-01 14:51:44,879 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:51:49,886 - [line:125] - INFO: [491] taxId: 90510980 
+capitalAmount:500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號3樓之3
+2023-03-01 14:51:52,798 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:51:54,598 - [line:125] - INFO: [492] taxId: 90528383 
+capitalAmount:1200000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之2號9樓
+2023-03-01 14:51:58,410 - [line:35] - DEBUG: ### time is random delay: 0.9 s###
+2023-03-01 14:52:01,788 - [line:125] - INFO: [493] taxId: 90537144 
+capitalAmount:28000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號10樓之6
+2023-03-01 14:52:02,696 - [line:35] - DEBUG: ### time is random delay: 2.1 s###
+2023-03-01 14:52:04,061 - [line:125] - INFO: [494] taxId: 90555156 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:52:06,166 - [line:35] - DEBUG: ### time is random delay: 2.5 s###
+2023-03-01 14:52:07,341 - [line:88] - ERROR: [495] 90596348 Request不到或出問題
+2023-03-01 14:52:07,392 - [line:125] - INFO: [495] taxId: 90596348 
+capitalAmount:1000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:52:09,897 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:52:22,550 - [line:125] - INFO: [496] taxId: 90616273 
+capitalAmount:600000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:52:22,672 - [line:35] - DEBUG: ### time is random delay: 1.3 s###
+2023-03-01 14:52:26,322 - [line:125] - INFO: [497] taxId: 90619264 
+capitalAmount:100000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之9號5樓
+2023-03-01 14:52:27,628 - [line:35] - DEBUG: ### time is random delay: 4.5 s###
+2023-03-01 14:52:29,072 - [line:125] - INFO: [498] taxId: 90623289 
+capitalAmount:500000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3之2號4樓
+2023-03-01 14:52:33,581 - [line:35] - DEBUG: ### time is random delay: 3.0 s###
+2023-03-01 14:52:37,024 - [line:125] - INFO: [499] taxId: 90663465 
+capitalAmount:150000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號17樓
+2023-03-01 14:52:40,036 - [line:35] - DEBUG: ### time is random delay: 4.1 s###
+2023-03-01 14:52:41,491 - [line:125] - INFO: [500] taxId: 90698529 
+capitalAmount:64500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區園區街3號13樓
+2023-03-01 14:52:45,598 - [line:35] - DEBUG: ### time is random delay: 0.7 s###
+2023-03-01 14:52:48,701 - [line:125] - INFO: [501] taxId: 90711369 
+capitalAmount:
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之13號14樓
+2023-03-01 14:52:49,425 - [line:35] - DEBUG: ### time is random delay: 0.2 s###
+2023-03-01 14:52:52,149 - [line:125] - INFO: [502] taxId: 90741146 
+capitalAmount:150000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:52:52,356 - [line:35] - DEBUG: ### time is random delay: 4.6 s###
+2023-03-01 14:52:55,398 - [line:125] - INFO: [503] taxId: 90761493 
+capitalAmount:10000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號11樓
+2023-03-01 14:53:00,005 - [line:35] - DEBUG: ### time is random delay: 3.0 s###
+2023-03-01 14:53:04,373 - [line:125] - INFO: [504] taxId: 90763458 
+capitalAmount:100000000
+email:
+website:
+phone:02-2655-0128
+companyAddress:臺北市南港區園區街3之2號11樓
+2023-03-01 14:53:07,382 - [line:35] - DEBUG: ### time is random delay: 2.6 s###
+2023-03-01 14:53:09,548 - [line:125] - INFO: [505] taxId: 90849771 
+capitalAmount:100000000
+email:
+website:
+phone:02-7717-9718
+companyAddress:臺北市南港區三重路19之11號3樓
+2023-03-01 14:53:12,155 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:53:18,145 - [line:125] - INFO: [506] taxId: 90897127 
+capitalAmount:8500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之6號7樓
+2023-03-01 14:53:22,869 - [line:35] - DEBUG: ### time is random delay: 0.4 s###
+2023-03-01 14:53:24,305 - [line:125] - INFO: [507] taxId: 91008446 
+capitalAmount:10000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號10樓
+2023-03-01 14:53:24,724 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:53:28,124 - [line:125] - INFO: [508] taxId: 91074579 
+capitalAmount:600000000
+email:
+website:
+phone:02-2655-8198#20
+companyAddress:臺北市南港區園區街3號13摟
+2023-03-01 14:53:29,532 - [line:35] - DEBUG: ### time is random delay: 0.6 s###
+2023-03-01 14:53:33,217 - [line:125] - INFO: [509] taxId: 91096200 
+capitalAmount:29700000
+email:
+website:
+phone:02-2555-3060
+companyAddress:臺北市南港區三重路19之13號5樓
+2023-03-01 14:53:33,843 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:53:37,953 - [line:125] - INFO: [510] taxId: 91103238 
+capitalAmount:10500000
+email:
+website:
+phone:02-2766-5518
+companyAddress:臺北市南港區三重路19之13號3樓
+2023-03-01 14:53:39,358 - [line:35] - DEBUG: ### time is random delay: 3.8 s###
+2023-03-01 14:53:42,018 - [line:125] - INFO: [511] taxId: 91104573 
+capitalAmount:10000000
+email:
+website:
+phone:
+companyAddress:新北市中和區中山路3段39號19樓之1
+2023-03-01 14:53:45,826 - [line:35] - DEBUG: ### time is random delay: 0.1 s###
+2023-03-01 14:53:47,224 - [line:125] - INFO: [512] taxId: 96941108 
+capitalAmount:29500000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之3號7樓
+2023-03-01 14:53:47,341 - [line:35] - DEBUG: ### time is random delay: 1.2 s###
+2023-03-01 14:53:49,068 - [line:125] - INFO: [513] taxId: 96953928 
+capitalAmount:100000000
+email:
+website:
+phone:02-2655-7998
+companyAddress:臺北市南港區園區街3之2號6樓之2
+2023-03-01 14:53:50,275 - [line:35] - DEBUG: ### time is random delay: 1.6 s###
+2023-03-01 14:53:54,139 - [line:125] - INFO: [514] taxId: 97025978 
+capitalAmount:600000000
+email:financial_material@ecpay.com.tw
+website:https://www.ecpay.com.tw/
+phone:02-2655-0557
+companyAddress:臺北市南港區三重路19之2號6樓之2
+2023-03-01 14:53:55,768 - [line:35] - DEBUG: ### time is random delay: 4.7 s###
+2023-03-01 14:53:57,964 - [line:125] - INFO: [515] taxId: 97110828 
+capitalAmount:180000000
+email:
+website:
+phone:
+companyAddress:臺北市南港區三重路19之11號12樓
+2023-03-01 14:54:02,668 - [line:35] - DEBUG: ### time is random delay: 2.2 s###
+2023-03-01 14:54:05,514 - [line:125] - INFO: [516] taxId: 97162640 
+capitalAmount:2000000000
+email:gordan.chang@tradevan.com.tw
+website:http://www.trade-van.com/
+phone:02-2655-1188
+companyAddress:臺北市南港區三重路19之13號6樓
+2023-03-01 14:54:07,720 - [line:35] - DEBUG: ### time is random delay: 2.9 s###
+2023-03-01 14:54:11,761 - [line:125] - INFO: [517] taxId: 97265511 
+capitalAmount:30000000
+email:
+website:
+phone:02-2655-8008#206
+companyAddress:臺北市南港區園區街3號11樓之5
+2023-03-01 14:54:14,666 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:54:17,759 - [line:125] - INFO: [518] taxId: 97283784 
+capitalAmount:235000000
+email:
+website:
+phone:02-2655-8899
+companyAddress:臺北市南港區園區街3之2號6樓之3
+2023-03-01 14:54:21,675 - [line:35] - DEBUG: ### time is random delay: 4.2 s###
+2023-03-01 14:54:32,263 - [line:125] - INFO: [519] taxId: 97301657 
+capitalAmount:500000000
+email:
+website:
+phone:02-2655-7568
+companyAddress:臺北市南港區園區街3號14樓之7
+2023-03-01 14:54:36,484 - [line:35] - DEBUG: ### time is random delay: 2.8 s###
+2023-03-01 14:54:41,257 - [line:125] - INFO: [520] taxId: 97317829 
+capitalAmount:600000000
+email:
+website:
+phone:02-2655-1233
+companyAddress:臺北市南港區三重路19之3號7樓之2
+2023-03-01 14:54:44,068 - [line:35] - DEBUG: ### time is random delay: 1.4 s###
+2023-03-01 14:54:45,344 - [line:88] - ERROR: [521] 97325784 Request不到或出問題
+2023-03-01 14:54:45,491 - [line:125] - INFO: [521] taxId: 97325784 
+capitalAmount:600000000
+email:
+website:
+phone:02-2655-1233
+companyAddress:臺北市南港區三重路19之3號7樓之2
+2023-03-01 14:54:46,899 - [line:35] - DEBUG: ### time is random delay: 3.9 s###
+2023-03-01 14:54:48,592 - [line:125] - INFO: [522] taxId: 97471569 
+capitalAmount:300000000
+email:
+website:
+phone:02-2653-3368
+companyAddress:臺北市南港區園區街3之2號4樓之3
+2023-03-01 14:54:52,499 - [line:35] - DEBUG: ### time is random delay: 5.0 s###
+2023-03-01 14:54:53,770 - [line:88] - ERROR: [523] 97479632 Request不到或出問題
+2023-03-01 14:54:54,013 - [line:125] - INFO: [523] taxId: 97479632 
+capitalAmount:300000000
+email:
+website:
+phone:02-2653-3368
+companyAddress:臺北市南港區園區街3之2號4樓之3
